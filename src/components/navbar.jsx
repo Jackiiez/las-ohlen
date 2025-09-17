@@ -20,7 +20,7 @@ export default function NavBar() {
 
     return (
         <>
-           <NavBar/>
+
             <div className="burger-menu" onClick={toggleMenu}>
                 {isOpen ? <FaTimes size={30} color="white" /> : <FaBars size={30} color="white" />}
             </div>
