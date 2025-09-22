@@ -35,6 +35,7 @@ return (
             {cards.map((card, index) => (
                 <div key={index} className="card__div">
                     <div className="card">
+
                         <h3 className='cardtitle'>{card.name}</h3>
                         <p className='cardtitle'>{card.text}</p>
                         <Link to={card.link}>

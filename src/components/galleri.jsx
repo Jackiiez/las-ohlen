@@ -32,14 +32,14 @@ console.log(currentImageIndex)
   const loadMoreItems = (sectionHeading) => {
     setVisibleItems(prev => ({
       ...prev,
-      [sectionHeading]: (prev[sectionHeading] || 0) + 15
+      [sectionHeading]: (prev[sectionHeading] || 0) + 5
     }));
   };
 
   const showLessItems = (sectionHeading) => {
     setVisibleItems(prev => ({
       ...prev,
-      [sectionHeading]: Math.max((prev[sectionHeading] || 0) - 15, 15)
+      [sectionHeading]: Math.max((prev[sectionHeading] || 0) - 5, 5)
     }));
   };
 
@@ -57,7 +57,7 @@ console.log(currentImageIndex)
         
         const initialVisibleItems = {};
         data.sections.forEach(section => {
-          initialVisibleItems[section.heading] = 15; 
+          initialVisibleItems[section.heading] = 5; 
         });
         setVisibleItems(initialVisibleItems);
       })
@@ -101,7 +101,7 @@ console.log(currentImageIndex)
                   Load More
                 </button>
               )}
-              {visibleItems[section.heading] > 15 && (
+              {visibleItems[section.heading] > 5 && (
                 <button onClick={() => showLessItems(section.heading)} className="show-less-button">
                   Show Less
                 </button>

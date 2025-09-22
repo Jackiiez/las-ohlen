@@ -6,3 +6,10 @@
 .side-img-div{
           gap: 2%;
 }
+.hegnholtbil{
+    display: grid;
+
+    &__white{
+        color: white;
+    }
+}

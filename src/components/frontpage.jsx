@@ -80,6 +80,7 @@ console.log(currentImageIndex)
       <div className="hero">
         <h1>Lars Ohlen {"(LAS"}</h1>
         <h1>the double trouble{")"}</h1>
+        <h1 className='VideoHeading'>Kig nedenunder for fede videoer af mig!</h1>
       </div>
 
       <div className="hero-content">
@@ -87,20 +88,26 @@ console.log(currentImageIndex)
           <div className="content-container">
             <div className="about">
               <h2 className="about__heading">småt om mig</h2>
-              <p>Dedikeret Fodboldgolfer med øgenavnet LAS</p>
-              <p>Tidligere Maraton-løber og badmintonspiller</p>
-              <p>Realkreditnørd med meget mere</p>
-              <p>Altid klar med et godt råd om boligkøb</p>
-              <p>Valg af lån i ejerbolig</p>
-              <p>Godkendelse af økonomi og meget mere</p>
+                      <ul>
+              <li>dedikeret Fodboldgolfer med øgenavnet LAS</li>
+              <li>tidligere Maraton-løber og Badmintonspiller</li>
+              <li>Realkredit-ekspert</li>
+              <li>omlægning af Realkredit-lån</li>
+              <li>altid klar med et godt råd om boligkøb</li>
+              <li>valg af lån i ejerbolig</li>
+              <li>anbefaling af den rigtige bank til dig</li>
+              <li>godkendelse af økonomi og meget mere</li>
+
+              </ul>
+          
             </div>
             <div className="image-container">
               <div className="main-image-container">
-                <img className="main-image" src="vinderet.jpg" alt="Main Image" onClick={() => openLightbox(['vinderet.jpg'], 0)} />
+                <img className="main-image" src="vinderto.jpg" alt="Main Image" onClick={() => openLightbox(['vinderto.jpg'], 0)} />
               </div>
               <div className="grid-images">
-                <img className="champagne" src="vinderto.jpg" alt="Champagne" onClick={() => openLightbox(['vinderto.jpg'], 0)} />
-                <img className="kærlighed" src="vinder3.jpg" alt="Kærlighed" onClick={() => openLightbox(['vinder3.jpg'], 0)} />
+                <img className="champagne" src="vinderne.jpg" alt="Champagne" onClick={() => openLightbox(['vinderne.jpg'], 0)} />
+                <img className="kærlighed" src="trophy.jpg" alt="Kærlighed" onClick={() => openLightbox(['trophy.jpg'], 0)} />
               </div>
             </div>
             <div className="image-container">
@@ -122,7 +129,7 @@ console.log(currentImageIndex)
               
               <div ref={setCardRef(1)} data-index={1} className={`movie-card ${visibleCards.includes(1) ? 'visible' : ''}`}>
                 <video controls width="500">
-                  <source src="video1.mp4" type="video/mp4" />
+                  <source src="vip.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
                 <div className="movie-info">
@@ -132,7 +139,7 @@ console.log(currentImageIndex)
               </div>
               <div ref={setCardRef(2)} data-index={2} className={`movie-card ${visibleCards.includes(2) ? 'visible' : ''}`}>
                 <video controls width="500">
-                  <source src="vip.mp4" type="video/mp4" />
+                  <source src="video1.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
                 <div className="movie-info">

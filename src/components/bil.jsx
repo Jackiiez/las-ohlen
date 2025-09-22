@@ -2,6 +2,7 @@ import{  useState } from 'react';
 import Lightbox from '../components/lightbox';
 import Footer from './footer';
 import NavBar from './navbar';
+import { Link } from 'react-router';
 export default function Bil() {
 
   const [lightboxImages, setLightboxImages] = useState([]);
@@ -41,8 +42,11 @@ console.log(currentImageIndex)
       </div>
 
 
-      <div className='side-img-div'>
-        <img className='side-img' src='bil7.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil7.jpg'], 0)} />
+      <div className='side-img-div hegnholtbil'>
+        <div>
+          <img className='side-img ' src='hegnholtbil.jpg' alt='Left Side Image' onClick={() => openLightbox(['hegnholtbil.jpg'], 0)} />
+          <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=9IhH88NAvN9kZhSk#">Se Facebook opslaget her</Link>
+          </div>
         <img className='side-img' src='bil12.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil12.jpg'], 0)} /> 
         <img className='side-img' src='bil9.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil9.jpg'], 0)} /></div>
             <div className='side-img-div'>
@@ -56,7 +60,7 @@ console.log(currentImageIndex)
               <img className='side-img' src='bil6.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil6.jpg'], 0)} />
                   <img className='side-img' src='bil16.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil16.jpg'], 0)} />
       </div>
-
+     
 
     </section>
     <Lightbox images={lightboxImages} isOpen={isLightboxOpen} onClose={closeLightbox} />
