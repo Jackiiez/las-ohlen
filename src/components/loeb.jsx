@@ -28,19 +28,19 @@ export default function Loeb() {
            <p>Copenhagen Marathon på 2:58:54</p>
            Det er en af mine top 3 største sports bedrifter
           
-          <p> Der var aldrig en krise undervejs.</p>
+          <p> Der var aldrig en krise undervejs</p>
           <p> Jeg lagde dog for hårdt ud, hvilket er en klassiker</p>
           <p> Det var kun min 4. marathon</p>
           <p> Jeg havde ikke taget løbetræner-uddannelsen endnu</p>
           og heller ikke fundet min guidance Jack Daniels Running Formular:
 
           <Link to={"https://www.saxo.com/dk/daniels-running-formula_jack-daniels_paperback_9781718203662?msclkid=377b5c9894c6158c9fb934e16c737476&utm_source=bing&utm_medium=cpc&utm_campaign=Standard%20Shopping%20%7C%20Engelsk&utm_term=4576442302288169&utm_content=Profitable"}>
-            link til Daniels&apos; Running Formula </Link>
+          <br /><p>  link til Daniels&apos; Running Formula</p> </Link>
 
 
           <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0gV5ZG1jtbFT1ACCKSLrSd3f1vrFNjioSe1r2rKwZwkunBDmd6KFXaeR37fFneXZfl?rdid=LLVkHqjMCmAxWE5T#"}>
             <img src="marton1.jpg" alt="" /></Link>
-          <p>2.58.54 Copenhagen marathon 2000 {"<"} 3 T ({"< "}3 hours)</p>
+          <p>2.58.54 Copenhagen marathon 1993 </p>
         </div>
         <hr className="loeb-hr" />
         <div className="løbe-div">
@@ -55,7 +55,7 @@ export default function Loeb() {
           <p> New York Marathon i 1994</p>
           <p> Berlin Marathon 3 stk.</p>
           <p> Athen Marathon 2004 her løb vi på blue-line fra OL ruten i Athen 3 måneder før</p>
-          <p> DVS vi løb selv marathon ruten fra OL</p>
+          <p> DVS vi løb selve marathon ruten fra OL</p>
           <p>Deltagelse i New York Marathon 1994</p>
           <p> En sand løbefest</p>
           <p> De sidste 7 km i Central Park føltes som at deltage i en landskamp i Parken</p>

@@ -153,6 +153,7 @@ export default function Fodboldgolf() {
                 * hjælper mig med at arrangere EM i Fodboldgolf<br />
                 * laver den vildeste artikel om international Fodboldgolf
               </p>
+              <Link to={"https://www.facebook.com/reel/590105433887108"}>Link til en Reel med Thomas</Link>
 
               <img className='fg-img' src="ven.jpg" alt="" onClick={() => openLightbox(['ven.jpg'], 0)} />
             </div>
@@ -197,7 +198,7 @@ export default function Fodboldgolf() {
               <p>
                 Vintertour marts 2023 jeg vinder omspillet om bronze over makker Vibæk. Daniel og
               </p>
-              <p>jeg står på samme podie som nr. 1 og 3 i Odsherred Eventen </p>
+
 
 
               <img className='fg-img' src="vintertour2023.jpg" alt="" onClick={() => openLightbox(['vintertour2023.jpg'], 0)} />
@@ -207,6 +208,9 @@ export default function Fodboldgolf() {
               <p>
                 Resultat fra Vintertour marts 2023:
               </p>
+              <p>Resultatet fra Vintertour marts 2023 på Odsherred Event.</p>
+              <p>Det er podiet ovre til venstre, der hører sammen med denne</p>
+              <p>Jeg vinder omspillet om broncen mod makker Vibæk allerede på det første af tre omspilshuller</p>
 
 
               <img className='fg-img' src="vintertour2023-resultat.jpg" alt="" onClick={() => openLightbox(['vintertour2023-resultat.jpg'], 0)} />
@@ -509,8 +513,8 @@ export default function Fodboldgolf() {
               <p>Jeg kommer bagud med 4 på de første 3 huller</p>
               <p>
                 Henter Vibæk omkring hul 9 og ser mig aldrig tilbage</p>
-                <p>Vigtigst af ALT, det er ekstremt hyggeligt at gå med Nordjyderne</p>
-                <p>Tak til Jysk Lokal Forsikring og Select for at sponsorer 2/3 af præmierne til de 5 afdelinger i Nordjylland</p>
+              <p>Vigtigst af ALT, det er ekstremt hyggeligt at gå med Nordjyderne</p>
+              <p>Tak til Jysk Lokal Forsikring og Select for at sponsorer 2/3 af præmierne til de 5 afdelinger i Nordjylland</p>
 
               <Link to={"https://www.facebook.com/NordjyskFodboldgolf/posts/pfbid0zZRb67jPtj1inkarnUA2ivYLQCtXUf1CW5j5emvXTdN78juoHpT81JHc2VtWDKLUl?rdid=ycosS07qO0o3fahZ#"}>
                 <img className='fg-img' src="nordjyske-mesterskaber.jpg

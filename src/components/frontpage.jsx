@@ -159,7 +159,7 @@ console.log(currentImageIndex)
               </div>
               <div ref={setCardRef(4)} data-index={4} className={`movie-card ${visibleCards.includes(4) ? 'visible' : ''}`}>
                 <video controls width="500">
-                  <source src="sort-hvid.mp4" type="video/mp4" />
+                  <source src="fodbold.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
                 <div className="movie-info">
@@ -177,16 +177,7 @@ console.log(currentImageIndex)
                   <p>Witness the thrilling finale!</p>
                 </div>
               </div>
-              <div ref={setCardRef(6)} data-index={6} className={`movie-card ${visibleCards.includes(6) ? 'visible' : ''}`}>
-                <video controls width="500">
-                  <source src="fodbold.mp4" type="video/mp4" />
-                  Your browser does not support the video tag.
-                </video>
-                <div className="movie-info">
-                  <h3>Football Video 6</h3>
-                  <p>Catch the excitement of the tournament!</p>
-                </div>
-              </div>
+            
               <div ref={setCardRef(7)} data-index={7} className={`movie-card ${visibleCards.includes(7) ? 'visible' : ''}`}>
                 <video controls width="500">
                   <source src="swedishopenvideo.mp4" type="video/mp4" />
