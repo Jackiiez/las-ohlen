@@ -18,7 +18,7 @@ export default function Baner() {
             <div>
 
 
-                <h2 className="section-heading">Frederikssund Fodboldgolf</h2>
+                <h2 className="section-heading">"Frederikssund Fodboldgolf - en af mine sponsorer"</h2>
                 <p>	en af mine sponsorer. Her spillede Daniel og jeg vores første turnering DM 2015 og så var vi solgt. Jeg har holdt min 50 års fødselsdag her og holder også min 60 års 6. maj 2027
                     fantastisk sted med det skønneste festlokale.</p>
                 <Link to={"https://frederikssundfodboldgolf.dk/"} >
@@ -29,7 +29,7 @@ export default function Baner() {
             <div>
 
 
-                <h2 className="section-heading">Ørsted Outdoor</h2>
+                <h2 className="section-heading">Ørsted {"("}Fordi jeg er med i deres Team Ørsted{")"}</h2>
                 <p>	Ørsted Outdoor hvor jeg stolt er medlem af Team Ørsted og har været med til at arrangere Danish Open 2024 og makker Bo & jeg vandt Danish Open i herredouble</p>
                 <Link to={"https://orstedoutdoor.dk/fodboldgolf"} >
                     Ørsted Outdoors Hjemmeside
@@ -39,7 +39,7 @@ export default function Baner() {
             <div>
 
 
-                <h2 className="section-heading">Taastrup Fodboldgolf, Høje-Taastrup</h2>
+                <h2 className="section-heading"> Taastrup {"("}Fordi jeg har været banedesigner{")"}</h2>
                 <p>Taastrup Fodboldgolf, Høje-Taastrup, ved AirExperience som jeg selv har designet med 20 skønne fodboldgolf huller</p>
                 <Link to={"https://fodboldgolfpark.dk/?gad_source=1&gad_campaignid=21580334316&gbraid=0AAAAA98f0jICby-G_VPEX_J3rgmaIq-Xf&gclid=CjwKCAjwx8nCBhAwEiwA_z__03vxpjHVeRYrIbqgt8Kg51tz16S9MghVj2aJ1kdo288QH8_Wm1n8rRoCnQUQAvD_BwE"} >
                     Taastrup Fodboldgolfs Hjemmeside
@@ -54,15 +54,7 @@ export default function Baner() {
                     Fodboldgolfen, Hårlevs Hjemmeside
                 </Link>
             </div>
-            <hr className="divider" />
-            <div>
-
-
-                <h2 className="section-heading">Odsherred Fodboldgolf for alle </h2>
-                <Link to={"https://www.odsherred-fodboldgolf.dk/"} >
-                    Odsherred Fodboldgolfs Hjemmeside
-                </Link>
-            </div>
+          
             <hr className="divider" />
             <div>
 
@@ -70,6 +62,16 @@ export default function Baner() {
                 <h2 className="section-heading">Kragerup Gods </h2>
                 <Link to={"https://kragerup.dk/aktivitetspark/fodboldgolf/"} >
                     Kragerup Gods Hjemmeside
+                </Link>
+            </div>
+            
+              <hr className="divider" />
+            <div>
+
+
+                <h2 className="section-heading">Odsherred Fodboldgolf for alle </h2>
+                <Link to={"https://www.odsherred-fodboldgolf.dk/"} >
+                    Odsherred Fodboldgolfs Hjemmeside
                 </Link>
             </div>
             <hr className="divider" />
@@ -93,6 +95,7 @@ export default function Baner() {
                 <Link to={"https://www.bramdrupdamfodboldgolf.dk/"} >
                     Bramdrupdams Hjemmeside
                 </Link>
+                <p>Her har jeg {"("}med tilladelse fra LBK{")"} fået lov at kopiere flest huller, da jeg designede Taastrup Fodboldgolf og har livstidssæsonkort sammen m/Daniel</p>
             </div>
             <hr className="divider" />
             <div>
@@ -132,6 +135,7 @@ export default function Baner() {
                 <Link to={"https://varde-fodboldgolf.dk/information/velegnet-til"} >
                     Vardes Hjemmeside
                 </Link>
+                <p>Her fik Dunja og jeg med stolthed de 3 skønne baner tilbage på turneringsprogrammet i 2022, da vi var NæstFormand(inde) og Næstformand i DFGF</p>
             </div>
             <hr className="divider" />
             <div>
@@ -150,6 +154,7 @@ export default function Baner() {
                 <Link to={"https://asvigfodboldgolf.dk/"} >
                     AS VIG Juelsmindes Hjemmeside
                 </Link>
+                <p>Her er vi hele tre, der siden 2025 har livstidssæsonkort og jeg har en skøn samarbejdsaftale m/Frederik "Topper"</p>
             </div>
             <hr className="divider" />
             <div>
@@ -160,6 +165,7 @@ export default function Baner() {
                 <Link to={"https://skejbyfodboldgolf.dk/"} >
                     Skejbys Hjemmeside
                 </Link>
+                <p>her blev jeg verdensmester i 55+ i 2023 og fik mit første single podie til vintertour Hulspil i 2021, jeg slog Ronson ud på Premium på vejen</p>
             </div>
             <hr className="divider" />
             <div>
@@ -200,6 +206,7 @@ export default function Baner() {
                 <Link to={"https://nordjyskfodboldgolf.dk/"} >
                     Nordjysks Hjemmeside
                 </Link>
+                <p>her blev jeg verdensmester i 55+ i 2023 og fik mit første single podie til vintertour Hulspil i 2021, jeg slog Ronson ud på Premium på vejen</p>
             </div>
 
                <hr className="divider" />
@@ -208,8 +215,12 @@ export default function Baner() {
 
 
                 <h2 className="section-heading">Catalunya Maçanet de Cabrenys</h2>
-                <p>har jeg vundet mest metal i min karriere. Herredouble vinder i 2018 og 2021 +
-                     bronze i 2022, samt i GRUPMPHY OLD MEN (Old Boys 55+) har jeg 1 af hver, GULD, SØLV & BRONZE 😊</p>
+                <p>Her har jeg stået på podiet hele 7 gange i min karriere. Herredouble vinder i 2018 med Casa Holly og i 2021 med Secher, samt en meget stolt bronze med Bjørn Nørgaard i 2022. 
+                I single har jeg i GRUMPHY 😡 Old Men 55 + vundet i 2024, samt vundet 2 x sølv og 1 x bronze. </p>
+                <h3>Futbollgolf Cat:</h3>
+                <p>🇩🇰 er mit andet hjem
+🇪🇸 es mi segundo hogar
+🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 is my second home</p>
 
                 <Link to={"http://www.futbolgolf.com/en/"} >
                     Catalunya Maçanet de Cabrenys Hjemmeside
@@ -246,6 +257,17 @@ export default function Baner() {
 
                 <Link to={"https://cornwallfootballgolf.co.uk/"} >
                     Cornwalls Hjemmeside
+                </Link>
+            </div>
+            <hr className="divider" />
+            <div>
+
+
+                <h2 className="section-heading">Søndervig Juletræs-Claus</h2>
+          
+
+                <Link to={"https://sondervigfodboldgolf.dk/"} >
+                 Søndervigs Hjemmeside
                 </Link>
             </div>
                      <hr className="divider" />

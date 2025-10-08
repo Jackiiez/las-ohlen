@@ -43,10 +43,15 @@ console.log(currentImageIndex)
 
 
       <div className='side-img-div hegnholtbil'>
-        <div>
+        <div className='hegnholtbil-div'>
           <img className='side-img ' src='hegnholtbil.jpg' alt='Left Side Image' onClick={() => openLightbox(['hegnholtbil.jpg'], 0)} />
-          <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=9IhH88NAvN9kZhSk#">Se Facebook opslaget her</Link>
+         <br /> <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=9IhH88NAvN9kZhSk#">Se Facebook opslaget her</Link>
           </div>
+
+
+
+
+          
         <img className='side-img' src='bil12.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil12.jpg'], 0)} /> 
         <img className='side-img' src='bil9.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil9.jpg'], 0)} /></div>
             <div className='side-img-div'>
@@ -59,7 +64,13 @@ console.log(currentImageIndex)
         <img className='side-img' src='bil2.png' alt='Left Side Image' onClick={() => openLightbox(['bil2.png'], 0)} />
               <img className='side-img' src='bil6.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil6.jpg'], 0)} />
                   <img className='side-img' src='bil16.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil16.jpg'], 0)} />
+                  
       </div>
+      <div className='side-img-div hegnholtbil'>
+      <div className='hegnholtbil-div'>
+          <img className='side-img ' src='fodeksperterne-sponsor.jpg' alt='Left Side Image' onClick={() => openLightbox(['fodeksperterne-sponsor.jpg'], 0)} />
+         <br /> <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0sKxUSNb4pGmHyrNDzHtEexSej6dE1YGcBtT1xykPoWTMSdASsyxXheCLKggFUtYLl?rdid=OSjW61DEMYUlnNVg#">Se Facebook opslaget her</Link>
+          </div></div>
      
 
     </section>

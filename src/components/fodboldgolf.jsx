@@ -78,8 +78,8 @@ export default function Fodboldgolf() {
           <h2 className='sponsore-heading'>Mine podier🏆</h2>
           <p className='placeringer'>
             • Verdensmester i 55+<br />
-            • 43 podier🏆<br />
-            • 🥇20 stk. 🥈8 stk. 🥉15 stk.<br />
+            • 44 podier🏆<br />
+            • 🥇20 stk. 🥈9 stk. 🥉15 stk.<br />
             • Vigtigste titler:<br />
             • 🏆Verdensmester i single i 55 + i 2023<br />
             • 🇫🇷 Frankrig Open i single overall i 2024<br />

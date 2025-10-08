@@ -16,6 +16,10 @@
           "id": 42,
           "title": "Select Sport",
           "image": "fg (42).jpg"
+        },{
+          "id": 33,
+          "title": "Select Sport",
+          "image": "fg (33).jpg"
         }, {
           "id": 17,
           "title": "Select Sport",
@@ -177,11 +181,7 @@
           "title": "Select Sport",
           "image": "fg (32).jpg"
         },
-        {
-          "id": 33,
-          "title": "Select Sport",
-          "image": "fg (33).jpg"
-        },
+        
         {
           "id": 34,
           "title": "Select Sport",
