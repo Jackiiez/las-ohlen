@@ -1255,18 +1255,18 @@
       "galleryItems": [
         {
           "id": 1,
+          "title": "Daniel(69)",
+          "image": "daniel (69).jpg"
+        },
+        {
+          "id": 2,
           "title": "Daniel(1)",
           "image": "daniel (1).jpg"
         },
         {
-          "id": 2,
+          "id": 3,
           "title": "Daniel(14)",
           "image": "daniel (14).jpg"
-        },
-        {
-          "id": 3,
-          "title": "Daniel(50)",
-          "image": "daniel (50).jpg"
         },
         {
           "id": 4,
@@ -1280,258 +1280,258 @@
         },
         {
           "id": 6,
-          "title": "Daniel(6)",
-          "image": "daniel (6).jpg"
-        },
-        {
-          "id": 7,
-          "title": "Daniel(7)",
-          "image": "daniel (7).jpg"
-        },
-        {
-          "id": 8,
-          "title": "Daniel(8)",
-          "image": "daniel (8).jpg"
-        },
-        {
-          "id": 9,
-          "title": "Daniel(4)",
-          "image": "daniel (4).jpg"
-        },
-        {
-          "id": 10,
-          "title": "Daniel(10)",
-          "image": "daniel (10).jpg"
-        },
-        {
-          "id": 11,
           "title": "Daniel(11)",
           "image": "daniel (11).jpg"
         },
         {
-          "id": 12,
-          "title": "Daniel(12)",
-          "image": "daniel (12).jpg"
-        },
-        {
-          "id": 13,
-          "title": "Daniel(13)",
-          "image": "daniel (13).jpg"
-        },
-        {
-          "id": 14,
-          "title": "Daniel(2)",
-          "image": "daniel (2).jpg"
-        },
-        {
-          "id": 15,
-          "title": "Daniel(15)",
-          "image": "daniel (15).jpg"
-        },
-        {
-          "id": 16,
-          "title": "Daniel(16)",
-          "image": "daniel (16).jpg"
-        },
-        {
-          "id": 17,
-          "title": "Daniel(17)",
-          "image": "daniel (17).jpg"
-        },
-        {
-          "id": 18,
-          "title": "Daniel(18)",
-          "image": "daniel (18).jpg"
-        },
-        {
-          "id": 19,
-          "title": "Daniel(19)",
-          "image": "daniel (19).jpg"
-        },
-        {
-          "id": 20,
+          "id": 7,
           "title": "Daniel(39)",
           "image": "daniel (39).jpg"
         },
         {
-          "id": 21,
-          "title": "Daniel(40)",
-          "image": "daniel (40).jpg"
+          "id": 8,
+          "title": "Daniel(13)",
+          "image": "daniel (13).jpg"
         },
         {
-          "id": 22,
-          "title": "Daniel(41)",
-          "image": "daniel (41).jpg"
+          "id": 9,
+          "title": "Daniel(6)",
+          "image": "daniel (6).jpg"
         },
         {
-          "id": 23,
-          "title": "Daniel(5)",
-          "image": "daniel (5).jpg"
+          "id": 10,
+          "title": "Daniel(75)",
+          "image": "daniel (75).jpg"
         },
         {
-          "id": 24,
-          "title": "Daniel(43)",
-          "image": "daniel (43).jpg"
-        },
-        {
-          "id": 25,
-          "title": "Daniel(44)",
-          "image": "daniel (44).jpg"
-        },
-        {
-          "id": 26,
-          "title": "Daniel(45)",
-          "image": "daniel (45).jpg"
-        },
-        {
-          "id": 27,
-          "title": "Daniel(46)",
-          "image": "daniel (46).jpg"
-        },
-        {
-          "id": 28,
-          "title": "Daniel(47)",
-          "image": "daniel (47).jpg"
-        },
-        {
-          "id": 29,
-          "title": "Daniel(48)",
-          "image": "daniel (48).jpg"
-        },
-        {
-          "id": 30,
-          "title": "Daniel(49)",
-          "image": "daniel (49).jpg"
-        },
-        {
-          "id": 31,
-          "title": "Daniel(3)",
-          "image": "daniel (3).jpg"
-        },
-        {
-          "id": 32,
-          "title": "Daniel(51)",
-          "image": "daniel (51).jpg"
-        },
-        {
-          "id": 33,
-          "title": "Daniel(52)",
-          "image": "daniel (52).jpg"
-        },
-        {
-          "id": 34,
-          "title": "Daniel(53)",
-          "image": "daniel (53).jpg"
-        },
-        {
-          "id": 35,
-          "title": "Daniel(54)",
-          "image": "daniel (54).jpg"
-        },
-        {
-          "id": 36,
-          "title": "Daniel(55)",
-          "image": "daniel (55).jpg"
-        },
-        {
-          "id": 37,
-          "title": "Daniel(56)",
-          "image": "daniel (56).jpg"
-        },
-        {
-          "id": 38,
-          "title": "Daniel(57)",
-          "image": "daniel (57).jpg"
-        },
-        {
-          "id": 39,
-          "title": "Daniel(58)",
-          "image": "daniel (58).jpg"
-        },
-        {
-          "id": 40,
-          "title": "Daniel(59)",
-          "image": "daniel (59).jpg"
-        },
-        {
-          "id": 41,
-          "title": "Daniel(60)",
-          "image": "daniel (60).jpg"
-        },
-        {
-          "id": 42,
-          "title": "Daniel(61)",
-          "image": "daniel (61).jpg"
-        },
-        {
-          "id": 43,
-          "title": "Daniel(62)",
-          "image": "daniel (62).jpg"
-        },
-        {
-          "id": 44,
-          "title": "Daniel(63)",
-          "image": "daniel (63).jpg"
-        },
-        {
-          "id": 45,
-          "title": "Daniel(64)",
-          "image": "daniel (64).jpg"
-        },
-        {
-          "id": 46,
+          "id": 11,
           "title": "Daniel(65)",
           "image": "daniel (65).jpg"
         },
         {
-          "id": 47,
-          "title": "Daniel(66)",
-          "image": "daniel (66).jpg"
-        },
-        {
-          "id": 48,
-          "title": "Daniel(67)",
-          "image": "daniel (67).jpg"
-        },
-        {
-          "id": 49,
-          "title": "Daniel(68)",
-          "image": "daniel (68).jpg"
-        },
-        {
-          "id": 50,
-          "title": "Daniel(69)",
-          "image": "daniel (69).jpg"
-        },
-        {
-          "id": 51,
-          "title": "Daniel(70)",
-          "image": "daniel (70).jpg"
-        },
-        {
-          "id": 52,
-          "title": "Daniel(71)",
-          "image": "daniel (71).jpg"
-        },
-        {
-          "id": 53,
+          "id": 12,
           "title": "Daniel(72)",
           "image": "daniel (72).jpg"
         },
         {
+          "id": 13,
+          "title": "Daniel(47)",
+          "image": "daniel (47).jpg"
+        },
+        {
+          "id": 14,
+          "title": "Daniel(44)",
+          "image": "daniel (44).jpg"
+        },
+        {
+          "id": 15,
+          "title": "Daniel(63)",
+          "image": "daniel (63).jpg"
+        },
+        {
+          "id": 16,
+          "title": "Daniel(7)",
+          "image": "daniel (7).jpg"
+        },
+        {
+          "id": 17,
+          "title": "Daniel(8)",
+          "image": "daniel (8).jpg"
+        },
+        {
+          "id": 18,
+          "title": "Daniel(4)",
+          "image": "daniel (4).jpg"
+        },
+        {
+          "id": 19,
+          "title": "Daniel(10)",
+          "image": "daniel (10).jpg"
+        },
+        {
+          "id": 20,
+          "title": "Daniel(12)",
+          "image": "daniel (12).jpg"
+        },
+        {
+          "id": 21,
+          "title": "Daniel(2)",
+          "image": "daniel (2).jpg"
+        },
+        {
+          "id": 22,
+          "title": "Daniel(15)",
+          "image": "daniel (15).jpg"
+        },
+        {
+          "id": 23,
+          "title": "Daniel(16)",
+          "image": "daniel (16).jpg"
+        },
+        {
+          "id": 24,
+          "title": "Daniel(17)",
+          "image": "daniel (17).jpg"
+        },
+        {
+          "id": 25,
+          "title": "Daniel(18)",
+          "image": "daniel (18).jpg"
+        },
+        {
+          "id": 26,
+          "title": "Daniel(19)",
+          "image": "daniel (19).jpg"
+        },
+        {
+          "id": 27,
+          "title": "Daniel(40)",
+          "image": "daniel (40).jpg"
+        },
+        {
+          "id": 28,
+          "title": "Daniel(41)",
+          "image": "daniel (41).jpg"
+        },
+        {
+          "id": 29,
+          "title": "Daniel(5)",
+          "image": "daniel (5).jpg"
+        },
+        {
+          "id": 30,
+          "title": "Daniel(43)",
+          "image": "daniel (43).jpg"
+        },
+        {
+          "id": 31,
+          "title": "Daniel(45)",
+          "image": "daniel (45).jpg"
+        },
+        {
+          "id": 32,
+          "title": "Daniel(46)",
+          "image": "daniel (46).jpg"
+        },
+        {
+          "id": 33,
+          "title": "Daniel(48)",
+          "image": "daniel (48).jpg"
+        },
+        {
+          "id": 34,
+          "title": "Daniel(49)",
+          "image": "daniel (49).jpg"
+        },
+        {
+          "id": 35,
+          "title": "Daniel(3)",
+          "image": "daniel (3).jpg"
+        },
+        {
+          "id": 36,
+          "title": "Daniel(51)",
+          "image": "daniel (51).jpg"
+        },
+        {
+          "id": 37,
+          "title": "Daniel(52)",
+          "image": "daniel (52).jpg"
+        },
+        {
+          "id": 38,
+          "title": "Daniel(53)",
+          "image": "daniel (53).jpg"
+        },
+        {
+          "id": 39,
+          "title": "Daniel(54)",
+          "image": "daniel (54).jpg"
+        },
+        {
+          "id": 40,
+          "title": "Daniel(55)",
+          "image": "daniel (55).jpg"
+        },
+        {
+          "id": 41,
+          "title": "Daniel(56)",
+          "image": "daniel (56).jpg"
+        },
+        {
+          "id": 42,
+          "title": "Daniel(57)",
+          "image": "daniel (57).jpg"
+        },
+        {
+          "id": 43,
+          "title": "Daniel(58)",
+          "image": "daniel (58).jpg"
+        },
+        {
+          "id": 44,
+          "title": "Daniel(59)",
+          "image": "daniel (59).jpg"
+        },
+        {
+          "id": 45,
+          "title": "Daniel(60)",
+          "image": "daniel (60).jpg"
+        },
+        {
+          "id": 46,
+          "title": "Daniel(61)",
+          "image": "daniel (61).jpg"
+        },
+        {
+          "id": 47,
+          "title": "Daniel(62)",
+          "image": "daniel (62).jpg"
+        },
+        {
+          "id": 48,
+          "title": "Daniel(64)",
+          "image": "daniel (64).jpg"
+        },
+        {
+          "id": 49,
+          "title": "Daniel(66)",
+          "image": "daniel (66).jpg"
+        },
+        {
+          "id": 50,
+          "title": "Daniel(67)",
+          "image": "daniel (67).jpg"
+        },
+        {
+          "id": 51,
+          "title": "Daniel(68)",
+          "image": "daniel (68).jpg"
+        },
+        {
+          "id": 52,
+          "title": "Daniel(50)",
+          "image": "daniel (50).jpg"
+        },
+        {
+          "id": 53,
+          "title": "Daniel(70)",
+          "image": "daniel (70).jpg"
+        },
+        {
           "id": 54,
+          "title": "Daniel(71)",
+          "image": "daniel (71).jpg"
+        },
+        {
+          "id": 55,
           "title": "Daniel(73)",
           "image": "daniel (73).jpg"
         },
         {
-          "id": 55,
+          "id": 56,
           "title": "Daniel(74)",
           "image": "daniel (74).jpg"
-        },
-        {
-          "id": 56,
-          "title": "Daniel(75)",
-          "image": "daniel (75).jpg"
         },
         {
           "id": 57,
