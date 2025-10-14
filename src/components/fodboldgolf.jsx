@@ -329,8 +329,8 @@ export default function Fodboldgolf() {
               
 
 
-              <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0C4t1yMHDdsUUxShKaqtNaJLvbwAX8bDB8qKg3KVKs7miNKYRKR4r4x4mDzk2jNxTl?rdid=UM69T1crbOSn3ABp#"}>
-                <img className='fg-img' src="hegnholtfg.png
+              <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=1FocHNAXSnzKCx1c#"}>
+                <img className='fg-img' src="jonas.jpg
               " alt="" />
               </Link>
             </div>

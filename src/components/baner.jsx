@@ -278,15 +278,7 @@ export default function Baner() {
                     </Link>
                 </div>
                 <hr className="divider" />
-                <div>
-
-
-                    <h2 className="section-heading">Youx</h2>
-
-                    <Link to={"https://www.facebook.com/auvergnefootgolf"} >
-                        Youxs Facebook
-                    </Link>
-                </div>
+             
                 <hr className="divider" />
                 <div>
 

@@ -22,7 +22,7 @@ export default function Loeb() {
           <p>* jeg har hjulpet nybegynder løbere til at gennemføre en 5 km </p>
           <p>* og jeg har hjulpet marathonløbere til at komme under drømmegrænsen på 3 timer</p>
           <p>* kontakt mig endelig, hvis jeg skal være din løbetræner eller motivator</p>
-            <Link to="mailto:Larsohlen67@gmail.com">Larsohlen67@gmail.com</Link>
+            <Link to="mailto:maratonohlen@gmail.com">maratonohlen@gmail.com</Link>
 
           <p className="title sponsore-heading">Højdepunkter:</p>
            <p>* Copenhagen Marathon på 2:58:54</p>
