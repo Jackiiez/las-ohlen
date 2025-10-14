@@ -278,8 +278,7 @@ export default function Baner() {
                     </Link>
                 </div>
                 <hr className="divider" />
-             
-                <hr className="divider" />
+          
                 <div>
 
 
