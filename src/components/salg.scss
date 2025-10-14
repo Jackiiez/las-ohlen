@@ -7,7 +7,8 @@
     margin-bottom: 2rem;
     margin: 0 auto;
     max-height: 350px;
-    min-width: 250px;
+    min-width: 240px;
+    max-width: 250px;
         object-fit: cover;
             border-radius: 10px;
 }
@@ -20,6 +21,11 @@
 .item-title{
     color: white;
     margin-top: 1rem;
+    font-size: 1.5rem;
+}
+.item-text{
+    color: white;
+
     font-size: 1.5rem;
 }
 .cardtext{

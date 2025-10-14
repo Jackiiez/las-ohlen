@@ -196,7 +196,8 @@ export default function Fodboldgolf() {
 
             <div ref={setCardRef(6)} data-index={6} className={`movie-card ${visibleCards.includes(6) ? 'visible' : ''}`}>
               <p>
-                Vintertour marts 2023 jeg vinder omspillet om bronze over makker Vibæk. Daniel og
+                Vintertour marts 2023 jeg vinder omspillet om bronze over makker Vibæk.
+                Daniel og jeg er på et podie sammen i single for første gang nogensinde.
               </p>
 
 
@@ -218,7 +219,11 @@ export default function Fodboldgolf() {
 
 
             <div ref={setCardRef(8)} data-index={8} className={`movie-card ${visibleCards.includes(8) ? 'visible' : ''}`}>
-              <p>Med indunder Ørsted Outdoor - måske du har lagt dem over på Sponsorsiden nu, værsgo:</p>
+              <p>* Ørsted outdoor </p>
+              <p>* Det skønneste sted</p>
+              <p>* Ørredsøer og hytter</p>
+              <p>* Vi er med i Team Ørsted</p>
+              <p>* Baneejeren Iben og Allan vil os og vores sport helt vildt</p>
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid02zjsTWtdqYKhSew6ryrUjwyVvAc5GND3ho3XYUEKULaEgFGYypU9irEWNg1aEtRJ4l?rdid=qfmmx32NNGgoifEP#"}>
                 <img className='fg-img' src="fodboldcamp.jpg" alt="" onClick={() => openLightbox(['fodboldcamp.jpg'], 0)} />
               </Link>
@@ -228,9 +233,11 @@ export default function Fodboldgolf() {
 
 
             <div ref={setCardRef(9)} data-index={9} className={`movie-card ${visibleCards.includes(9) ? 'visible' : ''}`}>
-              <p>Sparke-træning den jeg skrev om med Fitness<br />
-                * Træning af de lange spark
-              </p>
+            <p>* Træning af de lange spark </p>
+              <p>* Ølstykke Fodboldpark</p>
+              <p>* En morgen kl. 8 med musik i ørerne</p>
+              <p>* 3 bolde GULD - RØD - BRONCE</p>
+              <p>* 1 times træning med sved på banenff</p>
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0wzkcEptNLUMxTUuxoPhHgdobg7zPuQ5TKYKDHtjDGhgUA1E3X6pvFYDPHJZbvCE2l?rdid=VjHbV4FBJK3DdrHc#"}>
                 <img className='fg-img' src="sparke.jpg" alt="" />
               </Link>
@@ -255,10 +262,14 @@ export default function Fodboldgolf() {
                 <img className='fg-img' src="grumpyoldman.jpg" alt="" />
               </Link>
             </div>
-            <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
-              <p>STØRSTE internationale sejr i 6 år - French Open 2024
-              </p>
-              <p>Lecoqsportif</p>
+            <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>¨
+              <p>Youx Loves Fotballgolf</p>
+           <p>* jeg vinder French Open 2024 overall</p>
+           <p>* vinder med 12 skud til nummer 2</p>
+           <p>* største sejr i international fodboldgolf i 6 år</p>
+           <p>* det er min største sejr sammen med CPH Maraton under 3 timer</p>
+           <p>* større end at vinde VM i 55 + og mine mange doublesejre</p>
+              <p>* Lecoqsportif er nu tatoveret på min arm</p>
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0c38D5K4DnCfkGu9mHDvQsxoPSnoPq9D5PZSYjx4yS9yxdRiSH1gWavu8EeP5djfel?rdid=wAe6qfyiaYKZD4n8#"}>
                 <img className='fg-img' src="cock.jpg" alt="" />
               </Link>
@@ -269,7 +280,7 @@ export default function Fodboldgolf() {
               <p>* Medmindre jeg er ude til turnering</p>
               <p>* Det er kedeligt, men føles samtidigt godt 🏋️‍♂️</p>
               <p>* og kroppen er bare ekstremt meget bedre</p>
-              <p>* måske også fordi jeg har tabt 18 kilo siden marts</p>
+              <p>* jeg har tabt 18 kilo på 4 mdr, da jeg laver denne træning</p>
 
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid034jPudK2wr4fmbmQ5N2u7qKR1WkDq9HQusk867jZCMX5Cpkwc2dWR97ucDaAeZQ4Al?rdid=uWPi7BCN09ACI4nC#"}>
                 <img className='fg-img' src="træner.jpg" alt="" />
@@ -278,25 +289,18 @@ export default function Fodboldgolf() {
 
 
 
-            <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
-              <p>* Træning af de lange spark</p>
-
-
-              <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0wzkcEptNLUMxTUuxoPhHgdobg7zPuQ5TKYKDHtjDGhgUA1E3X6pvFYDPHJZbvCE2l?rdid=1yJSHiBZ8Oy9g6Ne#"}>
-                <img className='fg-img' src="sparketræning.png" alt="" />
-              </Link>
-            </div>
+          
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
               <p>Nordjysk Fodboldgolf</p>
 
-              <p> Niels Vendelboe har altid bakket vores sport op </p>
-              <p> Afholdt massevis af Nordjyske Opens</p>
+              <p>* Niels Vendelboe har altid bakket vores sport op </p>
+              <p>* Afholdt massevis af Nordjyske Opens</p>
 
-              <p>DM og været tæt på at afholde Danish Open 2022</p>
-              <p>Nordjysk Fodboldgolf har fået Danish open 2026</p>
-              <p>Jeg er ansvarlig for Danish open sammen med Niels</p>
-              <p>  Støttet op om DFGU, da vi havde en baneejer-union</p>
-              <p> God mand, fantastisk anlæg og 2 fede baner</p>
+              <p>* DM og været tæt på at afholde Danish Open 2022</p>
+              <p>* Nordjysk Fodboldgolf har fået Danish open 2026</p>
+              <p>* Jeg er ansvarlig for Danish open sammen med Niels</p>
+              <p>* Støttet op om DFGU, da vi havde en baneejer-union</p>
+              <p>* God mand, fantastisk anlæg og 2 fede baner</p>
 
               <p>
 
@@ -312,17 +316,17 @@ export default function Fodboldgolf() {
                 <img className='fg-img' src="nordjysk-logo.jpg" alt="" />
               </Link>
             </div>
+            
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
+              
               <p>Hegnsholt Fodboldgolf</p>
               <p>* Top 10 anlæg i DK</p>
-              <p>* Bygget af genbrugsmateriale </p>
+              <p>* Bygget af genbrugsmaterialer </p>
               <p>* I forhold til udgift pr. hul DK’s bedste anlæg</p>
               <p>* Udfordrende bane, hvor alle skud og dit hoved skal i spil</p>
-              <p>* Baneejer Jonas Ravn</p>
-              <p>* Sponsor {"("}billlede med fra bilen?{")"}</p>
-              <p>* Sponsor af mig stå som det sidste</p>
-              <p> https://nordjyskfodboldgolf.dk/
-                nordjyskfodboldgolf.dk</p>
+              <p>* Baneejer Jonas Ravn er en af mine sponsorer</p>
+          
+              
 
 
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0C4t1yMHDdsUUxShKaqtNaJLvbwAX8bDB8qKg3KVKs7miNKYRKR4r4x4mDzk2jNxTl?rdid=UM69T1crbOSn3ABp#"}>
@@ -338,15 +342,8 @@ export default function Fodboldgolf() {
               <p>* Dunja og jeg tager EM-sølv i mix-double</p>
               <p>  * Dunja spiller det bedste fodboldgolf jeg nogensinde har set</p>
               <p>* Sætter alle pots i umulige og mulige vinkler</p>
-              <p>  * Er i zonen som var det et Runners-High</p>
-              <p>  * Faktisk kan jeg ikke kommunikere med hende under hele runden</p>
-              <p>* Dunja brænder et langt første spark med venstre</p>
-              <p> * Vender sig om og siger bare Nu sætter du den!</p>
-              <p>* Bolden ligger i tyk rough</p>
-              <p>  * Et sted vi aldrig har ligget før</p>
-              <p>  * og min højre fod tør ikke andet end at sætte den</p>
-              <p> * faktisk fortjente vi guld</p>
-              <p>  * Ronnies kommentar bekræfter den gode runde ⚽️⛳️🕳🥈🥈🏆🇩🇰</p>
+          
+              <p>  * Ronnie's kommentar: "I spillede det bedste spil, jeg nogensinde har set oppe i den svenske skov” ⚽️⛳️🕳🥈🥈🏆🇩🇰</p>
 
 
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid02bLprnYJKd1KLYyj7qz4bVYgy5QTcxJvZ1BRsxgetY1ceLE9TtLGMC1sWYJi63fYBl?rdid=eYovtN6p8K3dERPb#"}>
@@ -475,7 +472,7 @@ export default function Fodboldgolf() {
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
               <p>LAS PÅ PODIET ⚽️⛳️🕳</p>
               <p>* min karrieres første single podie</p>
-              <p>   * og nu har jeg stået der 23 gange i single</p>
+              <p>   * og nu har jeg stået der 26 gange i single</p>
               <p>     * vintertour hulspil i Skejby 2021</p>
               <p>   * faktisk tæt på at vinde</p>
               <p>   * men jeg var mæt af at komme i 3-mandsfinalen</p>
@@ -506,21 +503,30 @@ export default function Fodboldgolf() {
             {/* ///////////////////////////// */}
 
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
-              <p>Sejr i Nordjyske Mesterskaber ⚽️⛳️🕳</p>
-              <p>Afdeling 2 i Sørå Vendsyssel</p>
-              <p>Vibæk og jeg går ud i samme score i finalerunden</p>
-              <p>De to andre er 2 skud bagved os også med samme score</p>
-              <p>Jeg kommer bagud med 4 på de første 3 huller</p>
-              <p>
-                Henter Vibæk omkring hul 9 og ser mig aldrig tilbage</p>
-              <p>Vigtigst af ALT, det er ekstremt hyggeligt at gå med Nordjyderne</p>
-              <p>Tak til Jysk Lokal Forsikring og Select for at sponsorer 2/3 af præmierne til de 5 afdelinger i Nordjylland</p>
+              <p>* Sejr i Nordjyske Mesterskaber ⚽️⛳️🕳</p>
+              <p>* Afdeling 2 i Sørå Vendsyssel</p>
+              <p>* Vibæk og jeg går ud i samme score i finalerunden</p>
+              <p>* De to andre er 2 skud bagved os også med samme score</p>
+              <p>* Jeg kommer bagud med 4 på de første 3 huller</p>
+              <p>* Henter Vibæk omkring hul 9 og ser mig aldrig tilbage</p>
+              <p>* Vigtigst af ALT, det er ekstremt hyggeligt at gå med Nordjyderne</p>
+              <p>* Tak til Jysk Lokal Forsikring og Select for at sponsorer 2/3 af præmierne til de 5 afdelinger i Nordjylland</p>
 
               <Link to={"https://www.facebook.com/NordjyskFodboldgolf/posts/pfbid0zZRb67jPtj1inkarnUA2ivYLQCtXUf1CW5j5emvXTdN78juoHpT81JHc2VtWDKLUl?rdid=ycosS07qO0o3fahZ#"}>
                 <img className='fg-img' src="nordjyske-mesterskaber.jpg
               " alt="" />
               </Link>
             </div>
+            <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
+             
+
+              <Link to={"https://www.facebook.com/NordjyskFodboldgolf/posts/pfbid0zZRb67jPtj1inkarnUA2ivYLQCtXUf1CW5j5emvXTdN78juoHpT81JHc2VtWDKLUl?rdid=7rtQnbjn6JnGLtub#"}>
+                <img className='fg-img' src="bænk.jpg
+              " alt="" />
+              </Link>
+            </div>
+
+
 
 
 

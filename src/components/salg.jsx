@@ -53,11 +53,12 @@ console.log(currentImageIndex)
 
 
                 <div className='outter-card-div'>
-                    {cards.map((card, index) => (
+                    {cards.map((card, index) => 
 
                         <div key={index} className="itemdiv">
                             <div className="card">
                                 <h3 className='item-title'>{card.name}</h3>
+                                <h3 className='item-text'>{card.text}</h3>
                               
 
 
@@ -71,7 +72,7 @@ console.log(currentImageIndex)
                                 <Link to="mailto:Larsohlen67@gmail.com" className='cardtext'>{card.link}</Link>
                             </div>
                         </div>
-                    ))}</div>
+                    )}</div>
 
 
 

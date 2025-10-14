@@ -97,6 +97,11 @@ console.log(currentImageIndex)
               <li>valg af lån i ejerbolig</li>
               <li>anbefaling af den rigtige bank til dig</li>
               <li>godkendelse af økonomi og meget mere</li>
+           <li> jeg har også en masse gode artikler til salg:</li>
+           <li>fodbolde og fodboldstøvler TF</li>
+           <li>Brøndby jetoner til poker og markering i fodboldgolf</li>
+           <li>hverdagsting </li>
+           <li>Se gerne på næstsidste fane "salg"</li>
 
               </ul>
           

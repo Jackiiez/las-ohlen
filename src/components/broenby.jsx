@@ -133,9 +133,9 @@ console.log(currentImageIndex)
         <hr />
 
         <h2 className='posts-heading'>Brøndby stunder ⚽️🏆🥇</h2>
-        <Link href={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0JmziuTQDRG14dr3kuQP8iLTTicF6APGazihP3b469Z2D9tLp2qpH8TCWzEegnESFl?rdid=gFb4MW3Ed5pUWQre#"}>
-          Klik her eller på billedet for at gå vidre til Postet</Link>
-        <Link href={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0JmziuTQDRG14dr3kuQP8iLTTicF6APGazihP3b469Z2D9tLp2qpH8TCWzEegnESFl?rdid=gFb4MW3Ed5pUWQre#"}>
+        <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0JmziuTQDRG14dr3kuQP8iLTTicF6APGazihP3b469Z2D9tLp2qpH8TCWzEegnESFl?rdid=gFb4MW3Ed5pUWQre#"}>
+          Klik her eller på billedet for at gå videre til postet</Link>
+        <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0JmziuTQDRG14dr3kuQP8iLTTicF6APGazihP3b469Z2D9tLp2qpH8TCWzEegnESFl?rdid=gFb4MW3Ed5pUWQre#"}>
           <img className='posts-img' src="bif-tur.jpg" alt="" />
         </Link><p className='posts-text'>Life is good ❤️☀️💙💛⚽️ hov Mr Vibæk og Emil Stabil .....</p>
 
@@ -146,9 +146,9 @@ console.log(currentImageIndex)
         <hr />
 
         <h2 className='posts-heading'>Så vandt vi igen⚽️🏆🥇</h2>
-        <Link href={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0mVMrBwTx39D1G66uGhBXFcb44K5cvSJwWdRvcgkBxET42uYJ3q41cYqawZ97JLLTl?rdid=sOCE55cJS6nI4MFv#"}>
-          Klik her eller på billedet for at gå vidre til Postet</Link>
-        <Link href={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0mVMrBwTx39D1G66uGhBXFcb44K5cvSJwWdRvcgkBxET42uYJ3q41cYqawZ97JLLTl?rdid=sOCE55cJS6nI4MFv#"}>
+        <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0mVMrBwTx39D1G66uGhBXFcb44K5cvSJwWdRvcgkBxET42uYJ3q41cYqawZ97JLLTl?rdid=sOCE55cJS6nI4MFv#"}>
+        Klik her eller på billedet for at gå videre til postet</Link>
+        <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0mVMrBwTx39D1G66uGhBXFcb44K5cvSJwWdRvcgkBxET42uYJ3q41cYqawZ97JLLTl?rdid=sOCE55cJS6nI4MFv#"}>
           <img className='posts-img' src="bifven.jpg" alt="" />
         </Link><p className='posts-text'>SEJR 🐣💙⚽️
 4 - 3 ‼️🐣💙⚽️</p>
@@ -163,9 +163,9 @@ console.log(currentImageIndex)
         <hr />
 
         <h2 className='posts-heading'>God minder💙💙</h2>
-        <Link href={"https://www.facebook.com/thomas.voss.923/posts/pfbid025FKZRJNTVQfSDMzTfidNrbDbURfzDZfN6EcLzfH8gLpKxZD69Ge2LBZrNnSndHNNl?rdid=FV8g1qpvDU9AE3HR#"}>
-          Klik her eller på billedet for at gå vidre til Postet</Link>
-        <Link href={"https://www.facebook.com/thomas.voss.923/posts/pfbid025FKZRJNTVQfSDMzTfidNrbDbURfzDZfN6EcLzfH8gLpKxZD69Ge2LBZrNnSndHNNl?rdid=FV8g1qpvDU9AE3HR#"}>
+        <Link to={"https://www.facebook.com/thomas.voss.923/posts/pfbid025FKZRJNTVQfSDMzTfidNrbDbURfzDZfN6EcLzfH8gLpKxZD69Ge2LBZrNnSndHNNl?rdid=FV8g1qpvDU9AE3HR#"}>
+        Klik her eller på billedet for at gå videre til postet</Link>
+        <Link to={"https://www.facebook.com/thomas.voss.923/posts/pfbid025FKZRJNTVQfSDMzTfidNrbDbURfzDZfN6EcLzfH8gLpKxZD69Ge2LBZrNnSndHNNl?rdid=FV8g1qpvDU9AE3HR#"}>
           <img className='posts-img' src="minder.jpg" alt="" />
         </Link><p className='posts-text'>🐣💙⚽️
  ‼️🐣💙⚽️</p>

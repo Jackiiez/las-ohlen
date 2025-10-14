@@ -91,16 +91,18 @@ console.log(currentImageIndex)
         <>
            <NavBar/>
             <section className='fif-section'>
-                <div className='fif-info-div'> <Link className='intro-text' href={"https://www.fif-hillerod.dk/"}><h1 className='sponsore-heading'>Daniel, Ras, Faiz og Jackies fodboldhold</h1></Link>
+                <div className='fif-info-div'> <Link className='intro-text' href={"https://www.fif-hillerod.dk/"}><h1 className='sponsore-heading'>Daniel, Ras, Faiz og Jackie´s fodboldhold</h1></Link>
+
                     <Link className='intro-text' to={"https://www.fif-hillerod.dk/"}>
 
 
                         <img className='fif-logo' src="fif.jpg" alt="" /></Link>
-                    <p className='intro-text'>Her er det hold som har en meget personlig plads i mit hjerte.</p>
-                    <p className='intro-text'>Grunde til det her hold er en af mine personlige favoriter er fordi min søn og hans bedste venner spiller sammen på holdet</p>
-                    <p className='intro-text'>på trods af at det bare er et hygge hold så gør det mig inderligt glad at se min søn og hans venner spille kampe selvom det udelukkende er hygge bold</p>
-
-
+                        <h1 className='Fodbold-VideoHeading'>Kig nedenunder for fede videoer af holdet!</h1>
+                    <p className='intro-text'>* FIF Hillerød er en af mine 4 favoritklubber</p>
+                    <p className='intro-text'>* min søn, Daniel, og hans bedste venner spiller i klubben</p>
+                    <p className='intro-text'>* 2. og 3. holdet er hyggehold og deres sammenhold er unikt</p>
+                    <p className='intro-text'>* det gør mig så glad at se dem sammen </p>
+                    <p className='intro-text'>* og jeg får også lov at være noget for nogle af drengene</p>
                     <img className='klubhus' src="klubhus.jpg" alt="" onClick={() => openLightbox(['klubhus.jpg'], 0)}/>
                 </div>
                 <div className="comming-soon-container">
@@ -145,6 +147,7 @@ console.log(currentImageIndex)
                         MEN al den snak om ALLE de mål Jackie scorer for FIF ⚽⚽⚽⚽⚽ var jeg træt at høre om hele tiden.
                         Lars, Lars du kom for sent, jeg har scoret 2 mål og lavet 1 assist i første halvleg ..... men se første video SÅDAN JACKS 💪⚽✌️
                         og Faiz du er en unik fighter, video 2, stormer frem, ruller rundt, tilbageløb og piver aldrig 🙏</p>
+
 
                 </div>
             

@@ -13,26 +13,28 @@ export default function Loeb() {
         <h1 className="title sponsore-heading">Lars på farten</h1>
         <div className="løbe-div">
           
-          <p>Jeg har løbet mere end 34.500 km i mit liv
+          <p>* jeg har løbet mere end 34.500 km i mit liv
         </p>
-          <p>
-          En menisk operation har begrænset mit løb til max 5 km pr tur</p><p>Drømmen var en gang at løbe samlet en gang rundt om jorden - 40.000 km</p>
+          <p>* en menisk operation har begrænset mit løb til max 5 km pr tur</p>
+          <p>* drømmen var en gang at løbe samlet en gang rundt om jorden - 40.000 km</p>
           <h2 className="title sponsore-heading">Løbetræner Lars</h2>
-          <p>Jeg har løbetræner certifikat fra dansk atletikforbund</p>
-          <p>Jeg har hjulpet nybegynder løbere til at gennemføre en 5 km </p>
-          <p>og jeg har hjulpet marathonløbere til at komme under drømmegrænsen på 3 timer</p>
-          <p>Kontakt mig endelig, hvis jeg skal være din løbetræner eller motivator</p>
+          <p>* jeg har løbetræner certifikat fra dansk atletikforbund</p>
+          <p>* jeg har hjulpet nybegynder løbere til at gennemføre en 5 km </p>
+          <p>* og jeg har hjulpet marathonløbere til at komme under drømmegrænsen på 3 timer</p>
+          <p>* kontakt mig endelig, hvis jeg skal være din løbetræner eller motivator</p>
             <Link to="mailto:Larsohlen67@gmail.com">Larsohlen67@gmail.com</Link>
 
           <p className="title sponsore-heading">Højdepunkter:</p>
-           <p>Copenhagen Marathon på 2:58:54</p>
-           Det er en af mine top 3 største sports bedrifter
+           <p>* Copenhagen Marathon på 2:58:54</p>
+           <p>* det er en af mine top 3 største sports bedrifter</p>
+           
           
-          <p> Der var aldrig en krise undervejs</p>
-          <p> Jeg lagde dog for hårdt ud, hvilket er en klassiker</p>
-          <p> Det var kun min 4. marathon</p>
-          <p> Jeg havde ikke taget løbetræner-uddannelsen endnu</p>
-          og heller ikke fundet min guidance Jack Daniels Running Formular:
+          <p>* der var aldrig en krise undervejs</p>
+          <p>* jeg lagde dog for hårdt ud, hvilket er en klassiker</p>
+          <p>* det var kun min 4. marathon</p>
+          <p>* jeg havde ikke taget løbetræner-uddannelsen endnu</p>
+          <p>* og heller ikke fundet min guidance Jack Daniels Running Formular:</p>
+        
 
           <Link to={"https://www.saxo.com/dk/daniels-running-formula_jack-daniels_paperback_9781718203662?msclkid=377b5c9894c6158c9fb934e16c737476&utm_source=bing&utm_medium=cpc&utm_campaign=Standard%20Shopping%20%7C%20Engelsk&utm_term=4576442302288169&utm_content=Profitable"}>
           <br /><p>  link til Daniels&apos; Running Formula</p> </Link>

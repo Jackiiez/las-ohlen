@@ -25,7 +25,7 @@ export default function Baner() {
                         Frederikssunds Hjemmeside
                     </Link>
                 </div>
-                 <hr className="divider" />
+                <hr className="divider" />
                 <div>
 
 
@@ -45,7 +45,7 @@ export default function Baner() {
                         Ørsted Outdoors Hjemmeside
                     </Link>
                 </div>
-               
+
                 <hr className="divider" />
                 <div>
 
@@ -98,6 +98,17 @@ export default function Baner() {
                         Hegnsholts Facebook
                     </Link>
                 </div>
+                <hr className="divider" /><div>
+
+
+                    <h2 className="section-heading">AS VIG Juelsminde</h2>
+                    <Link to={"https://asvigfodboldgolf.dk/"} >
+                        AS VIG Juelsmindes Hjemmeside
+                    </Link>
+                    <p>Her er vi hele tre, der siden 2025 har livstidssæsonkort og jeg har en skøn samarbejdsaftale m/Frederik "Topper"</p>
+                </div>
+
+
                 <hr className="divider" />
                 <div>
 
@@ -113,22 +124,28 @@ export default function Baner() {
                 <div>
 
 
-                    <h2 className="section-heading">AS VIG Juelsminde</h2>
-                    <Link to={"https://asvigfodboldgolf.dk/"} >
-                        AS VIG Juelsmindes Hjemmeside
+                    <h2 className="section-heading">Nordjysk</h2>
+
+                    <Link to={"https://nordjyskfodboldgolf.dk/"} >
+                        Nordjysks Hjemmeside
                     </Link>
-                    <p>Her er vi hele tre, der siden 2025 har livstidssæsonkort og jeg har en skøn samarbejdsaftale m/Frederik "Topper"</p>
+                    <p>Her er jeg ansvarlig for Danish Open 2026 sammen med baneejer Niels,
+                        som altid har holdt banen i min top 3 i DK i de 9 år, jeg har spillet hos "Niller"
+                    </p>
                 </div>
                 <hr className="divider" />
+
                 <div>
 
 
-                    <h2 className="section-heading">Hejnsvig</h2>
-                    <Link to={"https://www.hejnsvig-fodboldgolf.dk/"} >
-                        Hejnsvigs Hjemmeside
-                    </Link>
-                </div>
+                    <h2 className="section-heading">Sørå, Vendsyssel</h2>
 
+                    <Link to={"https://www.vendsysselfodboldgolf.dk/"} >
+                        Sårø, Vendsyssels Hjemmeside
+                    </Link>
+                    <p>Her vandt jeg 2. afdeling af Nordjyske Mesterskaber 2025 og det førte mig til den samlede sejr af de første Nordjyske Mesterskaber,
+                        dog uofficielt, da jeg er en skide Kjøbenhavner</p>
+                </div>
                 <hr className="divider" />
                 <div>
 
@@ -139,44 +156,11 @@ export default function Baner() {
                         Filskovs Hjemmeside
                     </Link>
                 </div>
-                <hr className="divider" />
+
+
                 <div>
+                    <hr className="divider" />
 
-
-                    <h2 className="section-heading">Nordjysk</h2>
-
-                    <Link to={"https://nordjyskfodboldgolf.dk/"} >
-                        Nordjysks Hjemmeside
-                    </Link>
-                    <p>Her er jeg ansvarlig for Danish Open 2026 sammen med baneejer Niels, 
-                        som altid har holdt banen i min top 3 i DK i de 9 år, jeg har spillet hos "Niller"
-                    </p>
-                </div>
-                <hr className="divider" />
-                <div>
-
-
-                    <h2 className="section-heading">Varde</h2>
-                    <p> her er hele 3 x 18 huller</p>
-                    <Link to={"https://varde-fodboldgolf.dk/information/velegnet-til"} >
-                        Vardes Hjemmeside
-                    </Link>
-                    <p>Her fik Dunja og jeg med stolthed de 3 skønne baner tilbage på turneringsprogrammet i 2022</p>
-                </div>
-                <hr className="divider" />
-              
-                <div>
-
-
-                    <h2 className="section-heading">Sårø, Vendsyssel</h2>
-
-                    <Link to={"https://www.vendsysselfodboldgolf.dk/"} >
-                        Sårø, Vendsyssels Hjemmeside
-                    </Link>
-                    <p>Her vandt jeg 2. afdeling af Nordjyske Mesterskaber 2025 og det førte mig til den samlede sejr af de første Nordjyske Mesterskaber,
-                         dog uofficielt, da jeg er en skide Kjøbenhavner</p>
-                </div>
-                <div>
 
 
                     <h2 className="section-heading">Fodboldgolf FÆNGSLET Horsens</h2>
@@ -184,20 +168,25 @@ export default function Baner() {
                         Fodboldgolf FÆNGSLETs Hjemmeside
                     </Link>
                 </div>
-          
                 <hr className="divider" />
                 <div>
 
 
-                    <h2 className="section-heading">Skejby</h2>
-                    <p>her er også hele 3 x 18 huller</p>
-                    <Link to={"https://skejbyfodboldgolf.dk/"} >
-                        Skejbys Hjemmeside
+                    <h2 className="section-heading">Hejnsvig</h2>
+                    <Link to={"https://www.hejnsvig-fodboldgolf.dk/"} >
+                        Hejnsvigs Hjemmeside
                     </Link>
-                    <p>her blev jeg verdensmester i 55+ i 2023 og fik mit første single
-                         podie til vintertour Hulspil i 2021, jeg slog Ronson ud på Premium på vejen</p>
-                </div>
-                <hr className="divider" />
+                </div><hr className="divider" />
+                <div>
+
+
+<h2 className="section-heading">Jammerbugten</h2>
+
+<Link to={"https://jbfodboldgolf.dk/index.php"} >
+    Jammerbugtens Hjemmeside
+</Link>
+</div>
+<hr className="divider" />
                 <div>
 
 
@@ -208,30 +197,69 @@ export default function Baner() {
                     </Link>
                 </div>
                 <hr className="divider" />
+          
+
+          <div>
+
+
+              <h2 className="section-heading">Søndervig</h2>
+
+
+              <Link to={"https://sondervigfodboldgolf.dk/"} >
+                  Søndervigs Hjemmeside
+              </Link>
+              <p>Her er min ven og mentor i Sporten Thomas Bjerregaard med i et genialt setup med Brizze, Ronson og Juletræs-Claus</p>
+          </div>
+
+
+                <hr className="divider" />
+
                 <div>
 
 
-                    <h2 className="section-heading">Jammerbugten</h2>
-
-                    <Link to={"https://jbfodboldgolf.dk/index.php"} >
-                        Jammerbugtens Hjemmeside
+                    <h2 className="section-heading">Varde</h2>
+                    <p> her er hele 3 x 18 huller</p>
+                    <Link to={"https://varde-fodboldgolf.dk/information/velegnet-til"} >
+                        Vardes Hjemmeside
                     </Link>
+                    <p>Her fik Dunja og jeg med stolthed de 3 skønne baner tilbage på turneringsprogrammet i 2022</p>
                 </div>
+
+
+
+
+
+                <hr className="divider" />
+                <div>
+
+
+                    <h2 className="section-heading">Skejby</h2>
+                    <p>her er også hele 3 x 18 huller</p>
+                    <Link to={"https://skejbyfodboldgolf.dk/"} >
+                        Skejbys Hjemmeside
+                    </Link>
+                    <p>her blev jeg verdensmester i 55+ i 2023 og fik mit første single
+                        podie til vintertour Hulspil i 2021, jeg slog Ronson ud på Premium på vejen</p>
+                </div>
+             
                
-           
+
+
 
                 <hr className="divider" />
                 <h2>Mine favoritbaner ude i Europa:</h2>
                 <div>
 
 
-                    <h2 className="section-heading">Catalunya Maçanet de Cabrenys</h2>
+                    <h2 className="section-heading">Futbollgolf Cat Catalunya Maçanet de Cabrenys</h2>
                     <p>Her har jeg stået på podiet hele 7 gange i min karriere. Herredouble vinder i 2018 med Casa Holly og i 2021 med Secher, samt en meget stolt bronze med Bjørn Nørgaard i 2022.
                         I single har jeg i GRUMPHY 😡 Old Men 55 + vundet i 2024, samt vundet 2 x sølv og 1 x bronze. </p>
-                    <h3>Futbollgolf Cat:</h3>
-                    <p> er mit andet hjem -
-                         mi segundo hogar
-                        🏴󠁧󠁢󠁥󠁮󠁧󠁿 is my second home -</p>
+
+                    <p>Futbollgolf Cat:</p>
+                    <p>- er mit andet hjem. </p>
+                    <p>- mi segundo hogar.
+                    </p>
+                    <p>- is my second home.</p>
 
                     <Link to={"http://www.futbolgolf.com/en/"} >
                         Catalunya Maçanet de Cabrenys Hjemmeside
@@ -270,18 +298,7 @@ export default function Baner() {
                         Cornwalls Hjemmeside
                     </Link>
                 </div>
-                <hr className="divider" />
-                <div>
 
-
-                    <h2 className="section-heading">Søndervig Juletræs-Claus</h2>
-
-
-                    <Link to={"https://sondervigfodboldgolf.dk/"} >
-                        Søndervigs Hjemmeside
-                    </Link>
-                    <p>Her er min ven og mentor i Sporten Thomas Bjerregaard med i et genialt setup med Brizze, Ronson og Juletræs-Claus</p>
-                </div>
                 <hr className="divider" />
                 <div>
 
