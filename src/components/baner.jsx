@@ -307,9 +307,9 @@ export default function Baner() {
                     <h2>Blåvandshug</h2>
                     <h2>Bramdrupdam </h2>
                     <h2>Brande</h2>
-                    <h2>Catalunya🇪🇸</h2>
-                    <h2>Cornwall🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 </h2>
-                    <h2>Detmold🇩🇪 </h2>
+                    <h2>Catalunya</h2>
+                    <h2>Cornwall🏴󠁧󠁢󠁥󠁮󠁧󠁿 </h2>
+                    <h2>Detmold </h2>
                     <h2>Dirmstein🇩🇪</h2>
                     <h2>Dortmund🇩🇪</h2>
                     <h2>Dymnik🇨🇿</h2>
@@ -317,7 +317,7 @@ export default function Baner() {
                     <h2>Ejsing </h2>
                     <h2>Ejsing </h2>
                     <h2>Englykke</h2>
-                    <h2>Fehrnarn 🇩🇪 </h2>
+                    <h2>Fehrnarn</h2>
                     <h2>Filskov </h2>
                     <h2>Foulum </h2>
                     <h2>Frederikssund - sponsor 💚⚽️⛳️🕳️</h2>
@@ -331,14 +331,14 @@ export default function Baner() {
                     <h2>Hejnsvig </h2>
                     <h2>Herning </h2>
                     <h2>Himmerland</h2>
-                    <h2>Inzell🇩🇪 </h2>
+                    <h2>Inzell </h2>
                     <h2>Jammerbugten </h2>
                     <h2>Kildedal</h2>
                     <h2>Kolding</h2>
                     <h2>Kragerup</h2>
                     <h2>Køge</h2>
-                    <h2>Lakitelek 🇭🇺 </h2>
-                    <h2>Løberød🇸🇪Gøran❤️ </h2>
+                    <h2>Lakitelek  </h2>
+                    <h2>Løberød Gøran❤️ </h2>
                     <h2>Løgstør </h2>
                     <h2>Marielyst</h2>
                     <h2>Munkelinde Midtjysk </h2>
@@ -347,17 +347,17 @@ export default function Baner() {
                     <h2>Odsherred gammel </h2>
                     <h2>Odsherred ny Eventpark </h2>
                     <h2>Odsherred ved Vig 9 hullers </h2>
-                    <h2>Ortenau🇩🇪 </h2>
+                    <h2>Orten</h2>
                     <h2>Pavlikov🇨🇿</h2>
                     <h2>Prag🇨🇿</h2>
-                    <h2>Prievaly Slovakiet 🇸🇰 </h2>
+                    <h2>Prievaly Slovakiet </h2>
                     <h2>Præstø Møn </h2>
                     <h2>Randers </h2>
-                    <h2>Red Lama 🇩🇪 </h2>
-                    <h2>Rhein-Neckar 🇩🇪 </h2>
-                    <h2>Salzburg🇦🇹 </h2>
-                    <h2>Santa Suzanna🇪🇸 </h2>
-                    <h2>Schwaben 🇩🇪 </h2>
+                    <h2>Red Lama  </h2>
+                    <h2>Rhein-Neckar </h2>
+                    <h2>Salzburg</h2>
+                    <h2>Santa Suzanna </h2>
+                    <h2>Schwaben  </h2>
                     <h2>Skejby </h2>
                     <h2>Sprækkebjerg </h2>
                     <h2>Sunds </h2>
@@ -366,7 +366,7 @@ export default function Baner() {
                     <h2>Trekroner Disc </h2>
                     <h2>Ulsted </h2>
                     <h2>Uppsgård Finland🇫🇮 </h2>
-                    <h2>Uppsala🇸🇪 </h2>
+                    <h2>Uppsala </h2>
                     <h2>Vallensbæk</h2>
                     <h2>Vallø</h2>
                     <h2>Vandel </h2>
@@ -374,8 +374,8 @@ export default function Baner() {
                     <h2>Vestbjerg </h2>
                     <h2>Vesterhavet </h2>
                     <h2>Weissenheiser Strand 🇩🇪 </h2>
-                    <h2>Willaberg 🇩🇪 </h2>
-                    <h2>Youx🇫🇷 </h2>
+                    <h2>Willaberg </h2>
+                    <h2>Youx </h2>
                     <h2>Ørsted</h2>
 
                 </div>

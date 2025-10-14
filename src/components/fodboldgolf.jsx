@@ -513,7 +513,7 @@ export default function Fodboldgolf() {
               <p>* Tak til Jysk Lokal Forsikring og Select for at sponsorer 2/3 af præmierne til de 5 afdelinger i Nordjylland</p>
 
               <Link to={"https://www.facebook.com/NordjyskFodboldgolf/posts/pfbid0zZRb67jPtj1inkarnUA2ivYLQCtXUf1CW5j5emvXTdN78juoHpT81JHc2VtWDKLUl?rdid=ycosS07qO0o3fahZ#"}>
-                <img className='fg-img' src="nordjyske-mesterskaber.jpg
+                <img className='fg-img' src="rødjakke.jpg
               " alt="" />
               </Link>
             </div>
