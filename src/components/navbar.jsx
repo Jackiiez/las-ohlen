@@ -29,16 +29,16 @@ export default function NavBar() {
                 <ul className="navbar-list">
                     <li className="navbar-item" onClick={() => handleItemClick(0)}>
                         <Link to="/" className="navbar-link" onClick={() => setIsOpen(false)}>
-                            Home
+                            <p>Home</p>
                         </Link>
                     </li>
                     <li className="navbar-item" onClick={() => handleItemClick(1)}>
                         <Link to="/fodboldgolf" className="navbar-link" onClick={() => setIsOpen(false)}>
-                            Fodboldgolf
+                           <p>Fodboldgolf</p>
                         </Link>
                         <ul className={`navbar-dropdown ${activeItem === 1 ? 'active' : ''}`}>
                             <li><Link to="/bog" className="navbar-link" onClick={() => setIsOpen(false)}>Jeg er med i en bog!</Link></li>
-                            <li><Link to="/baner" className="navbar-link" onClick={() => setIsOpen(false)}>Baner</Link></li>
+                            <li><Link to="/baner" className="navbar-link" onClick={() => setIsOpen(false)}><p>Baner</p></Link></li>
                         </ul>
                     </li>
                     <li className="navbar-item" onClick={() => handleItemClick(2)}>
@@ -62,7 +62,7 @@ export default function NavBar() {
                             <li><Link to="/broenby" className="navbar-link" onClick={() => setIsOpen(false)}>Brøndby</Link></li>
                             <li><Link to="/liverpool" className="navbar-link" onClick={() => setIsOpen(false)}>Liverpool</Link></li>
                             <li><Link to="/barcalona" className="navbar-link" onClick={() => setIsOpen(false)}>Barcelona</Link></li>
-                            <li><Link to="/fif" className="navbar-link" onClick={() => setIsOpen(false)}>FIF-Hillerød</Link></li>
+                            <li><Link to="/fif" className="navbar-link" onClick={() => setIsOpen(false)}>FIF</Link></li>
                         </ul>
                     </li>
                     <li className="navbar-item" onClick={() => handleItemClick(5)}>

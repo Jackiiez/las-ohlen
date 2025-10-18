@@ -24,7 +24,7 @@ export default function Loeb() {
           <p>* kontakt mig endelig, hvis jeg skal være din løbetræner eller motivator</p>
             <Link to="mailto:maratonohlen@gmail.com">maratonohlen@gmail.com</Link>
 
-          <p className="title sponsore-heading">Højdepunkter:</p>
+          <p >Højdepunkter:</p>
            <p>* Copenhagen Marathon på 2:58:54</p>
            <p>* det er en af mine top 3 største sports bedrifter</p>
            
@@ -82,7 +82,7 @@ export default function Loeb() {
 
           <p>https://www.saunagusjyllinge.dk/</p>
 <p>Se hvor lækkert der er i saunagus Jyllinge:</p>
-<Link to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0ePtmCWdp9BtYDD4BDFfosHbT92TMQNFqqzXNUU3nbZpGMV7FUZwLS5YqtdqoNUTYl?rdid=KQwCDZk2XDUTvIYq#">https://www.facebook.com/lars.ohlen.9/posts/pfbid0ePtmCWdp9BtYDD4BDFfosHbT92TMQNFqqzXNUU3nbZpGMV7FUZwLS5YqtdqoNUTYl?rdid=KQwCDZk2XDUTvIYq#</Link>
+<Link to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0ePtmCWdp9BtYDD4BDFfosHbT92TMQNFqqzXNUU3nbZpGMV7FUZwLS5YqtdqoNUTYl?rdid=KQwCDZk2XDUTvIYq#">Facebook link</Link>
 
       </p>
          <Link to="https://www.saunagusjyllinge.dk/"> <img src="gus.jpg" alt="" /></Link>

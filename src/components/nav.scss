@@ -141,7 +141,7 @@
     }
 
     .navbar-item p {
-        font-size: 2rem;
+        font-size: 1.8rem
     }
 
     .burger-menu {
@@ -194,4 +194,5 @@
         display: grid; /* Use grid layout for dropdown items */
         justify-items: center; /* Center items in the dropdown */
     }
+    .navbar-link{}
 }

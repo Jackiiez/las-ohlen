@@ -1,5 +1,4 @@
-
-import  { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import Lightbox from '../components/lightbox';
 import Footer from './footer';
 import NavBar from './navbar';
@@ -11,8 +10,6 @@ export default function Galleri() {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const cardRefs = useRef([]);
 
-
-console.log(currentImageIndex)
   const [visibleItems, setVisibleItems] = useState({});
 
   const setCardRef = (index) => (el) => {
@@ -52,7 +49,6 @@ console.log(currentImageIndex)
         return response.json();
       })
       .then(data => {
-        console.log('Fetched data:', data);
         setGalleryItems(data.sections || []);
         
         const initialVisibleItems = {};
@@ -68,9 +64,9 @@ console.log(currentImageIndex)
 
   return (
     <>
-       <NavBar/>
+      <NavBar />
       <div className="gallery-container">
-        <h2 className="gallery-title">Velkommen til højdepunkter og gode minder i mit liv </h2>
+        <h2 className="gallery-title">Velkommen til højdepunkter og gode minder i mit liv</h2>
         {Array.isArray(sections) && sections.length > 0 ? (
           sections.map(section => (
             <div key={section.heading} className="gallery-section">
@@ -96,22 +92,24 @@ console.log(currentImageIndex)
                   </div>
                 ))}
               </div>
-              {visibleItems[section.heading] < section.galleryItems.length && (
-                <button onClick={() => loadMoreItems(section.heading)} className="load-more-button">
-                  Load More
-                </button>
-              )}
-              {visibleItems[section.heading] > 5 && (
-                <button onClick={() => showLessItems(section.heading)} className="show-less-button">
-                  Show Less
-                </button>
-              )}
+              <div className="button-container">
+                {visibleItems[section.heading] < section.galleryItems.length && (
+                  <button onClick={() => loadMoreItems(section.heading)} className="load-more-button">
+                    Load More
+                  </button>
+                )}
+                {visibleItems[section.heading] > 5 && (
+                  <button onClick={() => showLessItems(section.heading)} className="show-less-button">
+                    Show Less
+                  </button>
+                )}
+              </div>
             </div>
           ))
         ) : (
           <p>No gallery items available.</p>
         )}
-          <Footer/>
+        <Footer />
         <Lightbox images={lightboxImages} isOpen={isLightboxOpen} onClose={closeLightbox} />
       </div>
     </>

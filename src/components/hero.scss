@@ -372,10 +372,27 @@ list-style: circle;
   .hero {
     height: 60vh;
   }
+.about li{
+  font-size: 0.8rem;
+  margin-bottom: 20px;
+
+  margin: 0 auto;
+  display: grid
+;
+
+  margin-bottom: 0.5rem;
+}
+ul{
+  display: grid
+  ;
+}
 
   .hero-content {
     max-width: 90%;
     padding: 10px;
+    
+    margin-top: 2rem;
+
   }
 
   .about h2 {
@@ -407,9 +424,21 @@ list-style: circle;
     height: 90%;
   
 }
+.VideoHeading{
+  
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  padding-bottom: 1.5rem;
+
+}
+.about h2{
+  font-size: 2rem;
+  text-align: center;
+}
   .hero {
-         height: 40vh;
+  
         padding-top: 8rem;
+        max-height: fit-content;
   }
   h1{
             font-size: 2.5rem;
@@ -417,6 +446,14 @@ list-style: circle;
   .content-container {
 
 display: block;
+}
+.coming-soon-container p{
+  padding-right: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+
+
 }
 
   .main-image-container {
@@ -428,9 +465,7 @@ display: block;
   
     width: auto;
 }
-  .about h2 {
-    font-size: 2rem;
-  }
+
 
   .about p {
     font-size: 1rem;
