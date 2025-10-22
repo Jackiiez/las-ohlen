@@ -46,9 +46,9 @@ console.log(currentImageIndex)
    <NavBar/>
 
             <div className='cards'>
-                <h1 className='salgs-heading'>Hej og velkommen til min salgs-side,føl dig endelig velkommen til at kigge på 
+                <h1 className='salgs-heading'>Hej 😀 og velkommen til min salgsside 😀 Føl dig endelig velkommen til at kigge på nogle af de artikler,
                     </h1>
-                <h2 className='salgs-heading'>  nogen af de artikler, som jeg har til salg 😀</h2>
+                <h2 className='salgs-heading'>   som jeg har til salg her. Skriv endeligt hvis du har spørgsmål eller andet, værsgo</h2>
  
 
 

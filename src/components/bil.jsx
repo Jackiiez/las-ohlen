@@ -26,7 +26,7 @@ export default function Bil() {
   return (<>
     <NavBar />
     <section className='bil-section'>
-      <h1 className="sponsore-heading">Alle mine sponsorer på min bil</h1>
+      <h1 className="sponsore-heading">Mine sponsorer er på min bil</h1>
       <p className="bil-text">Jeg er super glad for Peugeot. Bilen er miljøvenlig og har et flot design med masser af plads.
         Den er perfekt til både hverdag, træningsture, samt turneringer i både Danmark og hele Europa!</p>
       <p className="bil-text">Select sport 1947 ønsker ikke reklamer på biler, de er dog en kæmpe spiller for mine makkere og mig i beklædning, samt villige sponsorer af præmier til vores podier til de 5 afdelinger
