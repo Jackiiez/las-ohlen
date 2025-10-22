@@ -87,8 +87,7 @@ export default function Fodboldgolf() {
             • 🇪🇸 Spanien Open i herredouble i 2018 og 2021<br />
             • 🇫🇮 Finland Open i herredouble i 2019<br />
             • 🇩🇰 Danish Open i herredouble 2024<br />
-
-            • Jeg har spillet præcis 100 baner med 18 huller, som vil frigiver dene hjememside ligenu<br />
+            • Jeg har spillet præcis 100 baner med 18 huller, som vil frigiver dene hjememside lige nu<br />
             • Jeg har måske spillet aller flest baner af alle i hele verden ifølge de ”erfarne”<br />
             • Verdensrangliste højdepunkter:<br />
             • 55+ nummer 1 i verden<br />
@@ -233,7 +232,7 @@ export default function Fodboldgolf() {
 
 
             <div ref={setCardRef(9)} data-index={9} className={`movie-card ${visibleCards.includes(9) ? 'visible' : ''}`}>
-            <p>* Træning af de lange spark </p>
+              <p>* Træning af de lange spark </p>
               <p>* Ølstykke Fodboldpark</p>
               <p>* En morgen kl. 8 med musik i ørerne</p>
               <p>* 3 bolde GULD - RØD - BRONCE</p>
@@ -264,11 +263,11 @@ export default function Fodboldgolf() {
             </div>
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>¨
               <p>Youx Loves Fotballgolf</p>
-           <p>* jeg vinder French Open 2024 overall</p>
-           <p>* vinder med 12 skud til nummer 2</p>
-           <p>* største sejr i international fodboldgolf i 6 år</p>
-           <p>* det er min største sejr sammen med CPH Maraton under 3 timer</p>
-           <p>* større end at vinde VM i 55 + og mine mange doublesejre</p>
+              <p>* jeg vinder French Open 2024 overall</p>
+              <p>* vinder med 12 skud til nummer 2</p>
+              <p>* største sejr i international fodboldgolf i 6 år</p>
+              <p>* det er min største sejr sammen med CPH Maraton under 3 timer</p>
+              <p>* større end at vinde VM i 55 + og mine mange doublesejre</p>
               <p>* Lecoqsportif er nu tatoveret på min arm</p>
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0c38D5K4DnCfkGu9mHDvQsxoPSnoPq9D5PZSYjx4yS9yxdRiSH1gWavu8EeP5djfel?rdid=wAe6qfyiaYKZD4n8#"}>
                 <img className='fg-img' src="cock.jpg" alt="" />
@@ -289,9 +288,9 @@ export default function Fodboldgolf() {
 
 
 
-          
+
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
-              <p>Nordjysk Fodboldgolf</p>
+              <p>Nordjyske Fodboldgolf</p>
 
               <p>* Niels Vendelboe har altid bakket vores sport op </p>
               <p>* Afholdt massevis af Nordjyske Opens</p>
@@ -302,31 +301,33 @@ export default function Fodboldgolf() {
               <p>* Støttet op om DFGU, da vi havde en baneejer-union</p>
               <p>* God mand, fantastisk anlæg og 2 fede baner</p>
 
-              <p>
+              <Link to={"https://nordjyskfodboldgolf.dk/"} >
 
 
 
 
 
                 https://nordjyskfodboldgolf.dk/
-                nordjyskfodboldgolf.dk</p>
+              </Link><Link to={"https://nordjyskfodboldgolf.dk"} >
+                nordjyskfodboldgolf.dk
+              </Link>
 
 
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid0TBBXbZGpsdVFQY4FpY3vJTyKrCaSzXL99RbQxHhZFCpmA7DDGXBexudZy1Hej5QHl?rdid=6KlKxH2Zhh1QUqib#"}>
                 <img className='fg-img' src="nordjysk-logo.jpg" alt="" />
               </Link>
             </div>
-            
+
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
-              
+
               <p>Hegnsholt Fodboldgolf</p>
               <p>* Top 10 anlæg i DK</p>
               <p>* Bygget af genbrugsmaterialer </p>
               <p>* I forhold til udgift pr. hul DK’s bedste anlæg</p>
               <p>* Udfordrende bane, hvor alle skud og dit hoved skal i spil</p>
               <p>* Baneejer Jonas Ravn er en af mine sponsorer</p>
-          
-              
+
+
 
 
               <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=1FocHNAXSnzKCx1c#"}>
@@ -342,7 +343,7 @@ export default function Fodboldgolf() {
               <p>* Dunja og jeg tager EM-sølv i mix-double</p>
               <p>  * Dunja spiller det bedste fodboldgolf jeg nogensinde har set</p>
               <p>* Sætter alle pots i umulige og mulige vinkler</p>
-          
+
               <p>  * Ronnie's kommentar: "I spillede det bedste spil, jeg nogensinde har set oppe i den svenske skov” ⚽️⛳️🕳🥈🥈🏆🇩🇰</p>
 
 
@@ -458,7 +459,9 @@ export default function Fodboldgolf() {
               <p>Anden double sejr i Spanish Open🏆</p>
               <p>* Sejrslisten i spanien er ved opdatering af hjemmesiden</p>
               <p>* 2 x doublesejr + 1 x bronze</p>
-              <p>* GRUMPHY 1 af hver GULD, SØLV og BRONZE</p>
+              <p>* GRUMPHY 1 GULD, 2 x SØLV og 1 BRONZE</p>
+              <p>* Hele 7 podier i alt kun overgået Frankrig </p>
+              <p>* Spanien er det sted, hvor jeg har været på næstflest podier </p>
 
 
 
@@ -493,7 +496,14 @@ export default function Fodboldgolf() {
               <p>Youx i Frankrig ⚽️⛳️🕳</p>
               <p>Youx, Frankrig - Youx Love Footballgolf ❤️</p>
 
-
+<p>* jeg elsker at spille i Youx</p>
+<p>* og er den eneste udlænding, der har spillet:</p>
+<p>* åbning af banen i 2022</p>
+<p>* French Open 2023 + 2024 + 2025</p>
+<p>* jeg har 5 x GULD i Youx</p>
+<p>* vandt overall i 2024</p>
+<p>* største internationale sejr i 6 år</p>
+<p>* der var 12 skud ned til nummer 2</p>
 
               <Link to={"https://www.facebook.com/cedric.caruana.9/posts/pfbid02drQvWLiKHh44Xr7JhDJo6m3Z5ZzwbpsX8Y95rspJ3sGw5RhxvWsZYydHo577t9ZHl?rdid=aNC6Bb9vsQMkQmHl#"}>
                 <img className='fg-img' src="youx.jpg
@@ -518,7 +528,7 @@ export default function Fodboldgolf() {
               </Link>
             </div>
             <div ref={setCardRef(10)} data-index={10} className={`movie-card ${visibleCards.includes(10) ? 'visible' : ''}`}>
-             
+
 
               <Link to={"https://www.facebook.com/NordjyskFodboldgolf/posts/pfbid0zZRb67jPtj1inkarnUA2ivYLQCtXUf1CW5j5emvXTdN78juoHpT81JHc2VtWDKLUl?rdid=7rtQnbjn6JnGLtub#"}>
                 <img className='fg-img' src="bænk.jpg

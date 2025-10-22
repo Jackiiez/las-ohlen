@@ -18,7 +18,7 @@ export default function Baner() {
                 <div>
 
 
-                    <h2 className="section-heading">"Frederikssund Fodboldgolf - en af mine sponsorer"</h2>
+                    <h2 className="section-heading">Frederikssund Fodboldgolf - en af mine sponsorer</h2>
                     <p>Her spillede Daniel og jeg vores første turnering DM 2015 og så var vi solgt. Jeg har holdt min 50 års fødselsdag her og holder også min 60 års 6. maj 2027
                         fantastisk sted med det skønneste festlokale.</p>
                     <Link to={"https://frederikssundfodboldgolf.dk/"} >
@@ -29,7 +29,7 @@ export default function Baner() {
                 <div>
 
 
-                    <h2 className="section-heading"> Taastrup</h2>
+                    <h2 className="section-heading">Taastrup</h2>
                     <p>Taastrup Fodboldgolf, Høje-Taastrup, ved AirExperience som jeg selv har designet med 20 skønne fodboldgolf huller</p>
                     <Link to={"https://fodboldgolfpark.dk/?gad_source=1&gad_campaignid=21580334316&gbraid=0AAAAA98f0jICby-G_VPEX_J3rgmaIq-Xf&gclid=CjwKCAjwx8nCBhAwEiwA_z__03vxpjHVeRYrIbqgt8Kg51tz16S9MghVj2aJ1kdo288QH8_Wm1n8rRoCnQUQAvD_BwE"} >
                         Taastrup Fodboldgolfs Hjemmeside
@@ -270,8 +270,15 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Youx</h2>
-                    <p>har jeg vundet mest metal i min karriere. Herredouble vinder i 2018 og 2021 +
-                        bronze i 2022, samt i GRUPMPHY OLD MEN (Old Boys 55+) har jeg 1 af hver, GULD, SØLV & BRONZE 😊</p>
+                    <p>* her har jeg vundet mest metal i mit ⚽️⛳️🕳 liv </p>
+                    <p>* hele 9 podier i alt </p>
+                    <p>* Sølv overall, da vi åbnede banen i 2022</p>
+                    <p>* herredouble vinder i 2023</p>
+                    <p>* samt bronze i single overall</p>
+                    <p>* samlet vinder overall i 2024</p>
+                    <p>* samt bronze i double med Gummi</p>
+                    <p>* i 2025 igen bronze i double med lokale JP</p>
+                    <p>* Vinder af GRUMPHY i single ALLE 3 French Opens ✌️</p>
 
                     <Link to={"https://www.facebook.com/auvergnefootgolf"} >
                         Youxs Facebook
@@ -308,7 +315,7 @@ export default function Baner() {
                     <h2>Bramdrupdam </h2>
                     <h2>Brande</h2>
                     <h2>Catalunya</h2>
-                    <h2>Cornwall🏴󠁧󠁢󠁥󠁮󠁧󠁿 </h2>
+                    <h2>Cornwall</h2>
                     <h2>Detmold </h2>
                     <h2>Dirmstein🇩🇪</h2>
                     <h2>Dortmund🇩🇪</h2>
@@ -365,7 +372,7 @@ export default function Baner() {
                     <h2>Sørå </h2>
                     <h2>Trekroner Disc </h2>
                     <h2>Ulsted </h2>
-                    <h2>Uppsgård Finland🇫🇮 </h2>
+                    <h2>Uppsgård Finland </h2>
                     <h2>Uppsala </h2>
                     <h2>Vallensbæk</h2>
                     <h2>Vallø</h2>
@@ -373,7 +380,7 @@ export default function Baner() {
                     <h2>Varde</h2>
                     <h2>Vestbjerg </h2>
                     <h2>Vesterhavet </h2>
-                    <h2>Weissenheiser Strand 🇩🇪 </h2>
+                    <h2>Weissenheiser Strand</h2>
                     <h2>Willaberg </h2>
                     <h2>Youx </h2>
                     <h2>Ørsted</h2>

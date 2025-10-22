@@ -125,7 +125,7 @@ console.log(currentImageIndex)
                     <h2 className='posts-heading'>Gutterne i FIF fejrer første sæson sejr ⚽️🏆🥇</h2>
                     <Video src="fodbold.mp4" 
        />
-                   <p className='posts-text'>Jeg ved godt, at Jackie er god til at score damer eller VAR, der er vist en meget sød kæreste nu 💃🫶
+                   <p className='posts-text'>Jeg ved godt, at Jackie er god til at score damer eller VAR,
                         Jeg ved godt, at Jackie er god til at lave insta .....
                         MEN al den snak om ALLE de mål Jackie scorer for FIF ⚽⚽⚽⚽⚽ var jeg træt at høre om hele tiden.
                         Lars, Lars du kom for sent, jeg har scoret 2 mål og lavet 1 assist i første halvleg ..... men se første video SÅDAN JACKS 💪⚽✌️
