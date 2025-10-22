@@ -133,7 +133,7 @@ console.log(currentImageIndex)
             <div className="movies-grid slider">
               
               <div ref={setCardRef(1)} data-index={1} className={`movie-card ${visibleCards.includes(1) ? 'visible' : ''}`}>
-                <video controls width="500">
+                <video width="100%" height="100%" autobuffer="true" controls="true" poster="https://www.w3schools.com/images/picture.jpg">
                   <source src="vip.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
