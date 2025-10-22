@@ -173,13 +173,13 @@
     .navbar.open {
         display: flex;
         flex-direction: column;
-      
+        height: 100vh;
         position: fixed;
         z-index: 10;
     }
 
     .navbar ul {
-        height: 100vh;
+        height: 100%;
     }
 
     .hero.hidden {
