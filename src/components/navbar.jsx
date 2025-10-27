@@ -75,11 +75,7 @@ export default function NavBar() {
                             <p>Sport inkl. løb</p>
                         </Link>
                     </li>
-                    <li className="navbar-item">
-                        <Link to="/" className="navbar-link" onClick={() => setIsOpen(false)}>
-                            ⚽️⛳️🕳
-                        </Link>
-                    </li>
+                
                 </ul>
             </nav>
         </>
