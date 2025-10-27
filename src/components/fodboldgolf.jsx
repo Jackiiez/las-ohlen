@@ -77,25 +77,25 @@ export default function Fodboldgolf() {
           </div>
           <h2 className='sponsore-heading'>Mine podier🏆</h2>
           <p className='placeringer'>
-            • Verdensmester i 55+<br />
+            • verdensmester i 55+<br />
             • 45 podier🏆<br />
             • 🥇21 stk. 🥈9 stk. 🥉15 stk.<br />
-            • Vigtigste titler:<br />
-            • 🏆Verdensmester i single i 55 + i 2023<br />
-            • 🇫🇷 Frankrig Open i single overall i 2024<br />
-            • Vandt med 12 skud - største internationale sejr i 6 år!<br />
-            • 🇪🇸 Spanien Open i herredouble i 2018 og 2021<br />
-            • 🇫🇮 Finland Open i herredouble i 2019<br />
-            • 🇩🇰 Danish Open i herredouble 2024<br />
-            • Jeg har spillet præcis 100 baner med 18 huller, som vil frigiver dene hjememside lige nu<br />
-            • Jeg har måske spillet aller flest baner af alle i hele verden ifølge de ”erfarne”<br />
-            • Verdensrangliste højdepunkter:<br />
+            • vigtigste titler:<br />
+            • 🏆verdensmester i single i 55 + i 2023<br />
+            • Frankrig Open i single overall i 2024<br />
+            • vandt med 12 skud - største internationale sejr i 6 år!<br />
+            • Spanien Open i herredouble i 2018 og 2021<br />
+            • Finland Open i herredouble i 2019<br />
+            • Danish Open i herredouble 2024<br />
+            • jeg har spillet præcis 100 baner med 18 huller, nu hvor vi frigiver denne hjememside lige nu<br />
+            • jeg har måske spillet aller flest baner af alle i hele verden ifølge de ”erfarne”<br />
+            • verdensrangliste højdepunkter:<br />
             • 55+ nummer 1 i verden<br />
-            • Herredouble nummer 2 i verden<br />
-            • Herresingle nummer 7 i verden<br />
-            • Alias udover LAS<br />
+            • herredouble nummer 2 i verden<br />
+            • herresingle nummer 7 i verden<br />
+            • alias udover LAS<br />
             • THE GRUMPHY OLD MAN😡<br />
-            • alias WORLD CHAMPION 55+<br />
+            • WORLD CHAMPION 55+ <br />
             • Old Boys Football golf ⚽️⛳️🕳️<br />
             • Lars OHLEN⚽️⛳️🕳️
           </p>
@@ -103,7 +103,7 @@ export default function Fodboldgolf() {
           <p>
 
             * Jeg har spillet 100 baner i alt med 18 huller ⚽️⛳️🕳<br />
-            * sandsynligvis den i verden, der har spillet allerflest ⚽️⛳️🕳
+            * sandsynligvis er jeg den i verden, der har spillet allerflest ⚽️⛳️🕳
           </p>
 
 

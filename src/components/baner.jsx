@@ -11,16 +11,18 @@ export default function Baner() {
         <>
             <NavBar />
             <div className="baner-container">
-                <h1 className="sponsore-heading">Mine favoritbaner i Danmark (sorry til dem, der ikke er nævnt):</h1>
+                <h1 className="sponsore-heading">Mine favoritbaner i Danmark</h1>
+                <h2 className="sorry">(sorry til de baner, der ikke er nævnt)</h2>
                 <hr className="divider" />
 
-                <h2>Sjælland:</h2>
+                <h2 className="sorry">Sjælland:</h2>
                 <div>
 
 
-                    <h2 className="section-heading">Frederikssund Fodboldgolf - en af mine sponsorer</h2>
-                    <p>Her spillede Daniel og jeg vores første turnering DM 2015 og så var vi solgt. Jeg har holdt min 50 års fødselsdag her og holder også min 60 års 6. maj 2027
-                        fantastisk sted med det skønneste festlokale.</p>
+                    <h2 className="section-heading">Frederikssund Fodboldgolf - <br/> en af mine sponsorer</h2>
+                    <p>Her spillede Daniel og jeg vores første turnering DM 2015 og så var vi solgt!</p>
+                     <p> Jeg har holdt min 50 års fødselsdag her og holder også min 60 års 6. maj 2027. <br/>
+                        Frederiksund Fodboldgolf er et fantastisk sted med det skønneste festlokale.</p>
                     <Link to={"https://frederikssundfodboldgolf.dk/"} >
                         Frederikssunds Hjemmeside
                     </Link>
@@ -30,7 +32,7 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Taastrup</h2>
-                    <p>Taastrup Fodboldgolf, Høje-Taastrup, ved AirExperience som jeg selv har designet med 20 skønne fodboldgolf huller</p>
+                    <p>Taastrup Fodboldgolf, Høje-Taastrup, ved AirExperience. <br/> Jeg har selv designet anlægget med 20 skønne fodboldgolf huller</p>
                     <Link to={"https://fodboldgolfpark.dk/?gad_source=1&gad_campaignid=21580334316&gbraid=0AAAAA98f0jICby-G_VPEX_J3rgmaIq-Xf&gclid=CjwKCAjwx8nCBhAwEiwA_z__03vxpjHVeRYrIbqgt8Kg51tz16S9MghVj2aJ1kdo288QH8_Wm1n8rRoCnQUQAvD_BwE"} >
                         Taastrup Fodboldgolfs Hjemmeside
                     </Link>
@@ -40,7 +42,7 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Ørsted</h2>
-                    <p>	Ørsted Outdoor hvor jeg stolt er medlem af Team Ørsted og har været med til at arrangere Danish Open 2024 og makker Bo & jeg vandt Danish Open i herredouble</p>
+                    <p>	Ørsted Outdoor hvor jeg er et stolt er medlem af Team Ørsted.<br/>Jeg var med til at arrangere Danish Open 2024 her i Ørsted. <br/> Makker Bo & jeg vandt Danish Open i herredouble</p>
                     <Link to={"https://orstedoutdoor.dk/fodboldgolf"} >
                         Ørsted Outdoors Hjemmeside
                     </Link>
@@ -77,7 +79,7 @@ export default function Baner() {
                 </div>
                 <hr className="divider" />
 
-                <h2>Fyn:</h2>
+                <h2 className="sorry">Fyn:</h2>
                 <div>
 
 
@@ -87,13 +89,13 @@ export default function Baner() {
                     </Link>
                 </div>
 
-                <h2>Jylland:</h2>
+                <h2 className="sorry">Jylland:</h2>
                 <hr className="divider" />
                 <div>
 
 
                     <h2 className="section-heading">Hegnsholt - en af mine sponsorer</h2>
-                    <p>Fedeste bane, hvor alle siger, den var da overraskende god. Bane 2 Premium med lange spark er allerede i gang med at blive planlagt.</p>
+                    <p>Fedeste bane, hvor alle siger, den var da overraskende god!<br/> Bane 2 Premium med lange spark er allerede i gang med at blive planlagt.</p>
                     <Link to={"https://www.facebook.com/p/Hegnsholt-Fodboldgolf-61567089463610/"} >
                         Hegnsholts Facebook
                     </Link>
@@ -105,7 +107,7 @@ export default function Baner() {
                     <Link to={"https://asvigfodboldgolf.dk/"} >
                         AS VIG Juelsmindes Hjemmeside
                     </Link>
-                    <p>Her er vi hele tre, der siden 2025 har livstidssæsonkort og jeg har en skøn samarbejdsaftale m/Frederik "Topper"</p>
+                    <p>Her er vi hele tre, der siden 2025 har livstidssæsonkort<br/>Jeg har en skøn samarbejdsaftale med Frederik "Topper"</p>
                 </div>
 
 
@@ -118,7 +120,8 @@ export default function Baner() {
                         Bramdrupdams Hjemmeside
                     </Link>
                     <p>Her har jeg {"("}med tilladelse fra LBK{")"} fået lov at kopiere flest huller,
-                        da jeg designede Taastrup Fodboldgolf og har livstidssæsonkort sammen m/Daniel</p>
+                        da jeg designede<br/> Taastrup Fodboldgolf og har livstidssæsonkort sammen med Daniel.</p>
+                        <p>Daniel blev Danmarksmester i hulspil her i Brandrupdam i 2021⚽️⛳️🏆</p>
                 </div>
                 <hr className="divider" />
                 <div>
@@ -129,7 +132,7 @@ export default function Baner() {
                     <Link to={"https://nordjyskfodboldgolf.dk/"} >
                         Nordjyske´s Hjemmeside
                     </Link>
-                    <p>Her er jeg ansvarlig for Danish Open 2026 sammen med baneejer Niels,
+                    <p>Her er jeg ansvarlig for Danish Open 2026 sammen med baneejer Niels,<br/>
                         som altid har holdt banen i min top 3 i DK i de 9 år, jeg har spillet hos "Niller"
                     </p>
                 </div>
@@ -164,6 +167,8 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Fodboldgolf FÆNGSLET Horsens</h2>
+                    <p>Topp, John og Simme er flagskibet til at promovere fodboldgolf i Danmark.</p>
+                    <p>Simme du får lige en dybfølt tak for dine fantastiske tekster!</p>
                     <Link to={"https://fodboldgolffaengslet.dk/"} >
                         Fodboldgolf FÆNGSLETs Hjemmeside
                     </Link>
@@ -173,6 +178,7 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Hejnsvig</h2>
+                    <p>Banen vil altid være i min top 5 i Danmark</p>
                     <Link to={"https://www.hejnsvig-fodboldgolf.dk/"} >
                         Hejnsvigs Hjemmeside
                     </Link>
@@ -208,7 +214,7 @@ export default function Baner() {
               <Link to={"https://sondervigfodboldgolf.dk/"} >
                   Søndervigs Hjemmeside
               </Link>
-              <p>Her er min ven og mentor i Sporten Thomas Bjerregaard med i et genialt setup med Brizze, Ronson og Juletræs-Claus</p>
+              <p>Her er min ven og mentor i Sporten Thomas Bjerregaard med<br/> i et  genialt setup med Brizze, Ronson og Juletræs-Claus</p>
           </div>
 
 
@@ -247,13 +253,14 @@ export default function Baner() {
 
 
                 <hr className="divider" />
-                <h2>Mine favoritbaner ude i Europa:</h2>
+                <h2 className="sorry">Mine favoritbaner ude i Europa:</h2>
                 <div>
 
 
                     <h2 className="section-heading">Futbollgolf Cat Catalunya Maçanet de Cabrenys</h2>
-                    <p>Her har jeg stået på podiet hele 7 gange i min karriere. Herredouble vinder i 2018 med Casa Holly og i 2021 med Secher, samt en meget stolt bronze med Bjørn Nørgaard i 2022.
-                        I single har jeg i GRUMPHY 😡 Old Men 55 + vundet i 2024, samt vundet 2 x sølv og 1 x bronze. </p>
+                    <p>Her har jeg stået på podiet hele 7 gange i min karriere!<br/> Herredouble vinder i 2018 med Casa Holly og i 2021 med Secher,<br/>
+                     samt en meget stolt bronze med Bjørn Nørgaard i 2022.<br/>
+                        I single har jeg i GRUMPHY 😡 Old Men 55 + vundet i 2024,<br/> samt vundet 2 x sølv og 1 x bronze. </p>
 
                     <p>Futbollgolf Cat:</p>
                     <p>- er mit andet hjem. </p>
@@ -272,13 +279,13 @@ export default function Baner() {
                     <h2 className="section-heading">Youx</h2>
                     <p>* her har jeg vundet mest metal i mit ⚽️⛳️🕳 liv </p>
                     <p>* hele 9 podier i alt </p>
-                    <p>* Sølv overall, da vi åbnede banen i 2022</p>
+                    <p>* jeg blev nummer 2, da vi åbnede banen i 2022</p>
                     <p>* herredouble vinder i 2023</p>
                     <p>* samt bronze i single overall</p>
                     <p>* samlet vinder overall i 2024</p>
                     <p>* samt bronze i double med Gummi</p>
                     <p>* i 2025 igen bronze i double med lokale JP</p>
-                    <p>* Vinder af GRUMPHY i single ALLE 3 French Opens ✌️</p>
+                    <p>* vinder af GRUMPHY i single ALLE 3 French Opens ✌️</p>
 
                     <Link to={"https://www.facebook.com/auvergnefootgolf"} >
                         Youx´s Facebook
@@ -290,7 +297,7 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Cornwall</h2>
-                    <p>verdens outstanding to bedste baner</p>
+                    <p>Verdens outstanding to bedste baner, uderlige kommentare er unødvendige!</p>
 
                     <Link to={"https://cornwallfootballgolf.co.uk/"} >
                         Cornwalls Hjemmeside
@@ -305,7 +312,7 @@ export default function Baner() {
                     <p>I alt 81⚽️⛳️🕳️ANLÆG i min karriere </p>
 
                     <h2>AirExperience Høje Taastrup </h2>
-                    <h2>Alunda🇸🇪 </h2>
+                    <h2>Alunda </h2>
                     <h2>AS VIG Juelsminde </h2>
                     <h2>Assens Vestfyns </h2>
                     <h2>Averge France</h2>
@@ -317,8 +324,8 @@ export default function Baner() {
                     <h2>Catalunya</h2>
                     <h2>Cornwall</h2>
                     <h2>Detmold </h2>
-                    <h2>Dirmstein🇩🇪</h2>
-                    <h2>Dortmund🇩🇪</h2>
+                    <h2>Dirmstein</h2>
+                    <h2>Dortmund</h2>
                     <h2>Dymnik🇨🇿</h2>
                     <h2>Ebeltoft</h2>
                     <h2>Ejsing </h2>
@@ -332,7 +339,7 @@ export default function Baner() {
                     <h2>Givskud</h2>
                     <h2>Gludsted </h2>
                     <h2>Græsted </h2>
-                    <h2>Haried 🇳🇴</h2>
+                    <h2>Haried</h2>
                     <h2>Hedehusene</h2>
                     <h2>Hegnsholt - sponsor ❤️⚽️⛳️</h2>
                     <h2>Hejnsvig </h2>
@@ -353,10 +360,10 @@ export default function Baner() {
                     <h2>Nørre kongerslev </h2>
                     <h2>Odsherred gammel </h2>
                     <h2>Odsherred ny Eventpark </h2>
-                    <h2>Odsherred ved Vig 9 hullers </h2>
-                    <h2>Orten</h2>
-                    <h2>Pavlikov🇨🇿</h2>
-                    <h2>Prag🇨🇿</h2>
+                    <h2>Odsherred ved Vig </h2>
+                    <h2>Ortenau</h2>
+                    <h2>Pavlikov</h2>
+                    <h2>Prag</h2>
                     <h2>Prievaly Slovakiet </h2>
                     <h2>Præstø Møn </h2>
                     <h2>Randers </h2>

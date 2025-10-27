@@ -68,7 +68,7 @@ console.log(currentImageIndex)
 
 
 
-                                <Link to={card.facebook} className='cardtext'>{card.facebook ? `Kontakt mig på min facebook/messenger  : ${card.facebook}` : 'No Facebook link available.'}</Link>
+                                <Link to={card.facebook} className=''>{card.facebook ? `Kontakt mig ved at klikke HER ` : 'No Facebook link available.'}</Link>
                                 <Link to="mailto:Larsohlen67@gmail.com" className='cardtext'>{card.link}</Link>
                             </div>
                         </div>

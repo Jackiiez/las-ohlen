@@ -127,11 +127,11 @@ console.log(currentImageIndex)
 
 
             <h2 className='posts-heading'>Barca {"<3"}⚽️🏆🥇</h2>
-            <Link to={"https://www.facebook.com/photo.php?fbid=9831256513603349&set=pb.100001572951936.-2207520000&type=3"}>
-              Klik her eller på billedet for at gå vidre til Postet</Link>
-            <Link to={"https://www.facebook.com/photo.php?fbid=9831256513603349&set=pb.100001572951936.-2207520000&type=3"}>
-              <img className='posts-img' src="barca.jpg" alt="" />
-            </Link><p className='posts-text'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti necessitatibus cum omnis dicta quibusdam! Reiciendis dolorum dolore, quasi debitis soluta eligendi sint necessitatibus, accusamus tempora rerum aperiam excepturi quia atque!</p>
+            <Link to={"https://www.facebook.com/photo.php?fbid=727016054027486&set=a.709909969071428&type=3&rdid=tE3FSt2EhctKM0bq&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GverRVPKH%2F#"}>
+              Klik her eller på billedet for at gå vidre til postet</Link>
+            <Link to={"https://www.facebook.com/photo.php?fbid=727016054027486&set=a.709909969071428&type=3&rdid=tE3FSt2EhctKM0bq&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GverRVPKH%2F#"}>
+              <img className='posts-img' src="ko.jpg" alt="" />
+            </Link>
 
           </div>
             <Footer/>

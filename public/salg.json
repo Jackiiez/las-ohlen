@@ -1,122 +1,135 @@
 {
   "sponsors": [
-     {
+    {
       "id": 1,
       "name": "Ny Rød Teamgeist TG1",
       "img": "guldbold.jpg",
-       "img2": "bold2.jpg",
+      "img2": "bold2.jpg",
       "text": "(Jeg har to stk. røde)",
-  "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
-     
-      
-    },   
-   
-     {
+    },
+    {
       "id": 2,
       "name": "Ny Rød Teamgeist TG1",
       "img": "bold1.jpg",
-       "img2": "bold2.jpg",
+      "img2": "bold2.jpg",
       "text": "(Jeg har to stk. røde)",
-  "facebook": "https://www.facebook.com/lars.ohlen.9",
-      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
-     
-      
-    },  {
-      "id": 8,
-      "name": "Blå Brøndby jeton",
-      "img": "blåjeton.jpg",
-  "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
-
-      {
+    {
       "id": 3,
+      "name": "Ny Blå Select Bold",
+      "img": "blue.jpg",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Select Bolde",
+      "img": "bolde.jpg",
+      "facebook": "https://www.facebook.com/marketplace/item/1198151379010503/?rdid=bq8jNIZw0IeYw55Y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1D8eFgejzU%2F#",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
+    {
+      "id": 4,
       "name": "Adidas fodbold støvler",
       "img": "sko1.jpg",
-  "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
-    
-      {
+    {
       "id": 4,
       "name": "Fodboldstøvler TF",
       "img": "sko2.jpg",
-  "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
-      {
+    {
       "id": 5,
       "name": "Mizuno Morelia Sala Classic TF Aurum - Sort/Guld/Grå",
       "img": "sko3.jpg",
-  "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
-     {
+    {
       "id": 6,
       "name": "Fodboldstøvler TF kunst grus",
       "img": "sko4.jpg",
-   "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
-     {
+    {
       "id": 7,
       "name": "TF kunst grus",
       "img": "sko5.jpg",
-   "facebook": "https://www.facebook.com/lars.ohlen.9",
-      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
-    },
-   
- 
-    
-    {
-      "id": 9,
-      "name": "Sort jeton",
-      "img": "sortjeton.jpg",
-     "facebook": "https://www.facebook.com/lars.ohlen.9",
-      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
-      
-    },
-   
-    {
-      "id": 11,
-      "name": "Rød jeton",
-      "img": "rødjeton.jpg",
-   "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
     {
       "id": 12,
       "name": "Grå jeton",
       "img": "gråjeton.jpg",
-   "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
-    }
-,
+    },
+    {
+      "id": 10,
+      "name": "Rød jeton",
+      "img": "rødjeton.jpg",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Sort jeton",
+      "img": "sortjeton.jpg",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Grøn jeton",
+      "img": "grønjeton.jpg",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Blå Brøndby jeton",
+      "img": "blåjeton.jpg",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
     {
       "id": 13,
       "name": "Baskettrøje Joma- 1XL",
       "img": "baskettrøje1.jpg",
       "text": "Link",
-        "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
     {
       "id": 14,
       "name": "Baskettrøjer - 1XL/2XL",
       "img": "baskettrøje2.jpg",
-   "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     },
     {
       "id": 15,
       "name": "Lærredstryk, Matteo Colombo",
       "img": "lærredestykke.jpg",
-   "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "facebook": "https://www.facebook.com/lars.ohlen.9",
+      "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
+    },
+    {
+      "id": 15,
+      "name": "4 klovne",
+      "img": "klovne.jpg",
+      "facebook": "https://www.facebook.com/marketplace/item/1285534746705984/?rdid=QVYCIZlcp145OZcf&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17gXLRfP9F%2F#",
       "link": "Du kan også kontakte mig på min mail: Larsohlen67@gmail.com"
     }
-  
-  
- 
   ]
-} 
+}
