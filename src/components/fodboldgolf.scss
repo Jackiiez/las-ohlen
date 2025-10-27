@@ -59,6 +59,7 @@
       color: white;
           text-align: center;
               width: 90%;
+              font-size: 1.4rem;
 
     }
 
@@ -94,6 +95,15 @@
     font-size: 1.5rem; // Adjust heading size for mobile
         margin-bottom: 0;
     padding: 0;
+
+  }
+  p {
+    margin: 0; // Remove default margin
+    line-height: 1.6; // Improve readability
+    color: white;
+        text-align: center;
+            width: 90%;
+            font-size: 1rem;
 
   }
   .fodboldgolf article div{

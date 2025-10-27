@@ -124,10 +124,10 @@ export default function Baner() {
                 <div>
 
 
-                    <h2 className="section-heading">Nordjysk</h2>
+                    <h2 className="section-heading">Nordjyske</h2>
 
                     <Link to={"https://nordjyskfodboldgolf.dk/"} >
-                        Nordjysks Hjemmeside
+                        Nordjyske´s Hjemmeside
                     </Link>
                     <p>Her er jeg ansvarlig for Danish Open 2026 sammen med baneejer Niels,
                         som altid har holdt banen i min top 3 i DK i de 9 år, jeg har spillet hos "Niller"
@@ -281,7 +281,7 @@ export default function Baner() {
                     <p>* Vinder af GRUMPHY i single ALLE 3 French Opens ✌️</p>
 
                     <Link to={"https://www.facebook.com/auvergnefootgolf"} >
-                        Youxs Facebook
+                        Youx´s Facebook
                     </Link>
                 </div>
                 <hr className="divider" />
@@ -349,7 +349,7 @@ export default function Baner() {
                     <h2>Løgstør </h2>
                     <h2>Marielyst</h2>
                     <h2>Munkelinde Midtjysk </h2>
-                    <h2>Nordjysk</h2>
+                    <h2>Nordjyske</h2>
                     <h2>Nørre kongerslev </h2>
                     <h2>Odsherred gammel </h2>
                     <h2>Odsherred ny Eventpark </h2>
