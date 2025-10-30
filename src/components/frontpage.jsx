@@ -129,79 +129,58 @@ console.log(currentImageIndex)
           <hr className="divider" />
 
           <div className="coming-soon-container">
-            <p>videoer</p>
+            <p className='video-text'>Små Videoer af mig</p>
             <div className="movies-grid slider">
               
               <div ref={setCardRef(1)} data-index={1} className={`movie-card ${visibleCards.includes(1) ? 'visible' : ''}`}>
-                <video width="100%" height="100%" autobuffer="true" controls="true" poster="https://www.w3schools.com/images/picture.jpg">
+                <video width="100%" height="100%" autobuffer="true" controls="true" poster="video1.PNG">
                   <source src="vip.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 1</h3>
-                  <p>Watch this amazing football video!</p>
-                </div>
+                
               </div>
               <div ref={setCardRef(2)} data-index={2} className={`movie-card ${visibleCards.includes(2) ? 'visible' : ''}`}>
-                <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video2.PNG">
                   <source src="video1.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 2</h3>
-                  <p>Enjoy the highlights of the match!</p>
-                </div>
+            
               </div>
               <div ref={setCardRef(3)} data-index={3} className={`movie-card ${visibleCards.includes(3) ? 'visible' : ''}`}>
-                <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video3.PNG">
                   <source src="video3.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 3</h3>
-                  <p>Check out this fantastic goal!</p>
-                </div>
+               
               </div>
               <div ref={setCardRef(4)} data-index={4} className={`movie-card ${visibleCards.includes(4) ? 'visible' : ''}`}>
-                <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video4.PNG">
                   <source src="fodbold.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 4</h3>
-                  <p>Relive the best moments of the game!</p>
-                </div>
+              
               </div>
               <div ref={setCardRef(5)} data-index={5} className={`movie-card ${visibleCards.includes(5) ? 'visible' : ''}`}>
-                <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video5.PNG">
                   <source src="clean.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 5</h3>
-                  <p>Witness the thrilling finale!</p>
-                </div>
+               
               </div>
             
               <div ref={setCardRef(7)} data-index={7} className={`movie-card ${visibleCards.includes(7) ? 'visible' : ''}`}>
-                <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video7.PNG">
                   <source src="swedishopenvideo.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 7</h3>
-                  <p>Catch the excitement of the tournament!</p>
-                </div>
+                
               </div>
               <div ref={setCardRef(8)} data-index={8} className={`movie-card ${visibleCards.includes(8) ? 'visible' : ''}`}>
-                <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video8.PNG">
                   <source src="swedishopenvideo2.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
-                <div className="movie-info">
-                  <h3>Football Video 7</h3>
-                  <p>Catch the excitement of the tournament!</p>
-                </div>
+              
               </div>
             </div>
           </div>

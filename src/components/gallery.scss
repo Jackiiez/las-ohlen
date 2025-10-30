@@ -16,6 +16,7 @@ $font-family: 'Arial', sans-serif;
     text-align: center;
     font-size: 2.5rem;
     color: white;
+    margin-bottom: 1.5rem;
 }
 
 .gallery {
@@ -138,11 +139,13 @@ ease;
 
     .section-heading {
         font-size: 1.8rem;
+        margin-bottom: 1.5rem;
     }
 }
 @media (max-width: 635px){
     .gallery-item {
         max-width: 150px;
+        
     }
 
     .gallery-title {
