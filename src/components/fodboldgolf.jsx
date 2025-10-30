@@ -124,7 +124,7 @@ export default function Fodboldgolf() {
                 kunne vi ikke tåle og spillede os af podiet 😂😂🤣😢 <br />* to puts fra min fod - hul 3
               </p>
 
-              <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video7.PNG">
                 <source src="swedishopenvideo.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
@@ -139,7 +139,7 @@ export default function Fodboldgolf() {
                 kunne vi ikke tåle og spillede os af podiet 😂😂🤣😢 <br />* to puts fra min fod - hul 3
               </p>
 
-              <video controls width="500">
+              <video width="100%" height="100%" autobuffer="true" controls="true" poster="video8.PNG">
                 <source src="swedishopenvideo2.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>

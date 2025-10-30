@@ -80,6 +80,7 @@ export default function Galleri() {
                         src={item.image}
                         alt={item.title}
                         controls
+                        poster={item.poster}
                       />
                     ) : (
                       <img
