@@ -928,6 +928,12 @@
           "title": "Jysk Lokal Forsikring",
           "image": "dm8.mp4"
         }
+        ,
+        {
+          "id": 89,
+          "title": "Jysk Lokal Forsikring",
+          "image": "royale.jpg"
+        }
       ]
     },
     {
@@ -1272,6 +1278,16 @@
           "id": 68,
           "title": "Sport Item 68",
           "image": "sport68.jpg"
+        },
+        {
+          "id": 69,
+          "title": "Sport Item 68",
+          "image": "larsloeb.jpg"
+        },
+        {
+          "id": 70,
+          "title": "Sport Item 68",
+          "image": "larsloebto.jpg"
         }
       ]
     },
