@@ -18,34 +18,45 @@
       "img": "barcalona.jpg"
   
     },
+      
+    
+    
+   
     {
-      "id": 3,
+     "id": 3,
+
+
+     "img": "barcaminde.jpg"
+ 
+   },
+    {
+      "id": 4,
 
       "img": "laudrup.jpg"
 
     },
     {
-      "id": 4,
+      "id": 5,
 
       "img": "messi.jpg"
 
     },{
-      "id": 4,
+      "id": 6,
 
       "img": "lamine.jpg"
 
     },{
-      "id": 5,
+      "id": 7,
 
       "img": "barca2.jpg"
 
     },{
-      "id": 6,
+      "id": 8,
 
       "img": "barca3.jpg"
 
     },{
-      "id": 7,
+      "id": 9,
 
       "img": "ko.jpg"
 
