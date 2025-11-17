@@ -87,7 +87,7 @@ export default function Fodboldgolf() {
             • Spanien Open i herredouble i 2018 og 2021<br />
             • Finland Open i herredouble i 2019<br />
             • Danish Open i herredouble 2024<br />
-            • jeg har spillet præcis 100 baner med 18 huller, nu hvor vi frigiver denne hjememside lige nu<br />
+            • jeg har spillet præcis 100 baner med 18 huller, nu hvor vi frigiver denne hjemmeside lige nu<br />
             • jeg har måske spillet aller flest baner af alle i hele verden ifølge de ”erfarne”<br />
             • verdensrangliste højdepunkter:<br />
             • 55+ nummer 1 i verden<br />
