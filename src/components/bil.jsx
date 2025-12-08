@@ -81,11 +81,24 @@ export default function Bil() {
         <img className='side-img' src='bil16.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil16.jpg'], 0)} />
 
       </div>
+
       <div className='side-img-div hegnholtbil'>
+      <img className='side-img' src='vejlebo.jpg' alt='Left Side Image' onClick={() => openLightbox(['vejlebo.jpg'], 0)} />
         <div className='hegnholtbil-div'>
+
+
+
           <img className='side-img ' src='fodeksperterne-sponsor.jpg' alt='Left Side Image' onClick={() => openLightbox(['fodeksperterne-sponsor.jpg'], 0)} />
-          <br /> <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0sKxUSNb4pGmHyrNDzHtEexSej6dE1YGcBtT1xykPoWTMSdASsyxXheCLKggFUtYLl?rdid=OSjW61DEMYUlnNVg#">Her er en artikel med link til alle mine sponsorer bl.a. Jysk Lokalforsikring</Link>
-        </div></div>
+          <br /> 
+          <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0sKxUSNb4pGmHyrNDzHtEexSej6dE1YGcBtT1xykPoWTMSdASsyxXheCLKggFUtYLl?rdid=OSjW61DEMYUlnNVg#">Her er en artikel med link til alle mine sponsorer bl.a. Jysk Lokalforsikring
+
+          </Link>
+          
+        </div>
+        
+        <img className='side-img' src='vejleboto.jpg' alt='Left Side Image' onClick={() => openLightbox(['vejleboto.jpg'], 0)} />
+        
+        </div>
 
 
     </section>

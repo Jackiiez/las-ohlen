@@ -42,7 +42,9 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Ørsted</h2>
-                    <p>	Ørsted Outdoor hvor jeg er et stolt er medlem af Team Ørsted.<br/>Jeg var med til at arrangere Danish Open 2024 her i Ørsted. <br/> Makker Bo & jeg vandt Danish Open i herredouble</p>
+                    <p>Jeg er stolt medlem af Team Ørsted i Ørsted Outdoor.
+Jeg var med til at arrangere den internationale turnering Danish Open her i 2024 på de to skønne baner.
+Her vandt min makker Bo og jeg herredoublen efter at have ført turneringen fra første spark, hvor Bo laver en Hole In One på første hul og hele vejen til sidste hul.	</p>
                     <Link to={"https://orstedoutdoor.dk/fodboldgolf"} >
                         Ørsted Outdoors Hjemmeside
                     </Link>
@@ -282,7 +284,7 @@ export default function Baner() {
                     <p>* jeg blev nummer 2, da vi åbnede banen i 2022</p>
                     <p>* herredouble vinder i 2023</p>
                     <p>* samt bronze i single overall</p>
-                    <p>* samlet vinder overall i 2024</p>
+                    <p>* samlet vinder i single overall i  2024</p>
                     <p>* samt bronze i double med Gummi</p>
                     <p>* i 2025 igen bronze i double med lokale JP</p>
                     <p>* vinder af GRUMPHY i single ALLE 3 French Opens ✌️</p>
@@ -297,7 +299,7 @@ export default function Baner() {
 
 
                     <h2 className="section-heading">Cornwall</h2>
-                    <p>Verdens outstanding to bedste baner, uderlige kommentare er unødvendige!</p>
+                    <p>Verdens outstanding to bedste baner yderligere kommentarer er unødvendige!</p>
 
                     <Link to={"https://cornwallfootballgolf.co.uk/"} >
                         Cornwalls Hjemmeside
@@ -326,7 +328,7 @@ export default function Baner() {
                     <h2>Detmold </h2>
                     <h2>Dirmstein</h2>
                     <h2>Dortmund</h2>
-                    <h2>Dymnik🇨🇿</h2>
+                    <h2>Dymnik</h2>
                     <h2>Ebeltoft</h2>
                     <h2>Ejsing </h2>
                     <h2>Ejsing </h2>
@@ -390,7 +392,7 @@ export default function Baner() {
                     <h2>Weissenheiser Strand</h2>
                     <h2>Willaberg </h2>
                     <h2>Youx </h2>
-                    <h2>Ørsted</h2>
+                    <h2>Ørsted - sponsor ❤️⚽️⛳️</h2>
 
                 </div>
                 <Footer />
