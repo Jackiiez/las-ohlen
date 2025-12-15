@@ -41,7 +41,7 @@ export default function Bil() {
           <br />   <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0sHSz7bM4BNJy1a7UiNs99P4G5NW7sRXJ6J8j7XjMwRUoNpzKyHCuLVmLjHKWjz6ol?rdid=IF3gSbeTuBBAAc31#">Se Facebook opslag her</Link></div>
         <div className='underdiv'>
           <img className='side-img ' src='hegnholtbil.jpg' alt='Left Side Image' onClick={() => openLightbox(['hegnholtbil.jpg'], 0)} />
-          <br />   <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=9IhH88NAvN9kZhSk#">Se Facebook opslag her</Link>
+          <br />   <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid02zQWr6UAYtPbBc7UqsEBdFKTAJzCHKkW9GVHzcs1cyuQRNEXeDuJh1eikMGE1Ckw8l?rdid=JN0TYEZalBaNvvrJ#">Se Facebook opslag her</Link>
         </div>
 
 
@@ -66,21 +66,37 @@ export default function Bil() {
 
 
         <img className='side-img' src='bil12.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil12.jpg'], 0)} />
-        <img className='side-img' src='bil3.png' alt='Right Side Image' onClick={() => openLightbox(['bil3.png'], 0)} /></div>
-      <div className='side-img-div'>
-        <img className='side-img' src='bil7.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil7.jpg'], 0)} />
-
-
-        <img className='side-img' src='bil13.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil13.jpg'], 0)} />
-
-        <img className='side-img' src='bil1.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil1.jpg'], 0)} /></div>
-      <div className='side-img-div'>
-
-        <img className='side-img' src='bil2.png' alt='Left Side Image' onClick={() => openLightbox(['bil2.png'], 0)} />
-        <img className='side-img' src='bil6.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil6.jpg'], 0)} />
-        <img className='side-img' src='bil16.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil16.jpg'], 0)} />
-
       </div>
+      <div className='side-img-div'>
+          <img className='side-img' src='bil1.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil1.jpg'], 0)} />
+        {/* <img className='side-img' src='bil7.jpg' alt='Right Side Image' onClick={() => openLightbox(['bil7.jpg'], 0)} />*/}
+<div className='hegnholtbil-div'>
+        <img className='side-img ' src='fodeksperterne-sponsor.jpg' alt='Left Side Image' onClick={() => openLightbox(['fodeksperterne-sponsor.jpg'], 0)} />
+        <br />  
+          <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0sKxUSNb4pGmHyrNDzHtEexSej6dE1YGcBtT1xykPoWTMSdASsyxXheCLKggFUtYLl?rdid=OSjW61DEMYUlnNVg#">Her er en artikel med link til alle mine sponsorer bl.a. Jysk Lokalforsikring
+
+</Link></div>
+        {/*   <img className='side-img' src='bil13.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil13.jpg'], 0)} />*/}
+
+    <img className='side-img' src='bil16.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil16.jpg'], 0)} />
+     
+     </div>
+
+
+        
+      <div className='side-img-div'>
+
+      <img className='side-img' src='prolåse.jpg' alt='Left Side Image' onClick={() => openLightbox(['prolåse.jpg'], 0)} />
+      
+       {/* <img className='side-img' src='bil6.jpg' alt='Left Side Image' onClick={() => openLightbox(['bil6.jpg'], 0)} />*/}
+       <img className='side-img' src='prolåseto.jpg' alt='Left Side Image' onClick={() => openLightbox(['prolåseto.jpg'], 0)} />
+        
+<img className='side-img' src='bil2.png' alt='Left Side Image' onClick={() => openLightbox(['bil2.png'], 0)} />
+      </div>
+
+
+      <div className='side-img-div hegnholtbil'>  
+        </div>
 
       <div className='side-img-div hegnholtbil'>
       <img className='side-img' src='vejlebo.jpg' alt='Left Side Image' onClick={() => openLightbox(['vejlebo.jpg'], 0)} />
@@ -88,11 +104,9 @@ export default function Bil() {
 
 
 
-          <img className='side-img ' src='fodeksperterne-sponsor.jpg' alt='Left Side Image' onClick={() => openLightbox(['fodeksperterne-sponsor.jpg'], 0)} />
+            <img className='side-img' src='bil3.png' alt='Right Side Image' onClick={() => openLightbox(['bil3.png'], 0)} />
           <br /> 
-          <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid0sKxUSNb4pGmHyrNDzHtEexSej6dE1YGcBtT1xykPoWTMSdASsyxXheCLKggFUtYLl?rdid=OSjW61DEMYUlnNVg#">Her er en artikel med link til alle mine sponsorer bl.a. Jysk Lokalforsikring
-
-          </Link>
+          <Link className='white' to="https://www.facebook.com/lars.ohlen.9/posts/pfbid02zXnVScsWhHJCD4zfTeN4e4ovDfUTnKf7CA5AbqSYHqNXak1TQXNN94EtdiwVHUbml?rdid=9IhH88NAvN9kZhSk#">Se Facebook opslag her</Link>
           
         </div>
         

@@ -44,6 +44,7 @@ console.log(currentImageIndex)
                     <img src="bogto.jpg" alt=""onClick={() => openLightbox(['bogto.jpg'], 0)} />
                       <img src="bog3.jpg" alt=""  onClick={() => openLightbox(['bog3.jpg'], 0)} />   
                     <img src="bogfire.jpg" alt="" onClick={() => openLightbox(['bogfire.jpg'], 0)}/>
+                    <img src="byportalen.jpg" alt="" onClick={() => openLightbox(['byportalen.jpg'], 0)}/>
                     <img src="bogfem.jpg" alt=""onClick={() => openLightbox(['bogfem.jpg'], 0)} />
                   
                  
