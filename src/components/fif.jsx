@@ -91,7 +91,7 @@ console.log(currentImageIndex)
         <>
            <NavBar/>
             <section className='fif-section'>
-                <div className='fif-info-div'> <Link className='intro-text' href={"https://www.fif-hillerod.dk/"}><h1 className='sponsore-heading'>Daniel, Ras, Faiz og Jackie´s fodboldhold</h1></Link>
+                <div className='fif-info-div'> <Link className='intro-text' href={"https://www.fif-hillerod.dk/"}><h1 className='sponsore-heading'>Daniel, Ras, Faiz Viktor og Jackie´s fodboldhold</h1></Link>
 
                     <Link className='intro-text' to={"https://www.fif-hillerod.dk/"}>
 
