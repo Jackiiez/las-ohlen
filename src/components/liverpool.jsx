@@ -140,7 +140,7 @@ console.log(currentImageIndex)
 
         <h2 className='posts-heading'>2-0 på Anfield ⚽️🏆🥇</h2>
         <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid02qfazLzvotZEYUGWhMyySscSbnwvQroeyBd9qrJZwWeLBk379XGWTdZqJigPTMSqml?rdid=q7F0Vzq71R1bYqU2#"}>
-          Klik her eller på billedet for at gå vidre til Postet</Link>
+          Klik her eller på billedet for at gå vidre til postet</Link>
         <Link to={"https://www.facebook.com/lars.ohlen.9/posts/pfbid02qfazLzvotZEYUGWhMyySscSbnwvQroeyBd9qrJZwWeLBk379XGWTdZqJigPTMSqml?rdid=q7F0Vzq71R1bYqU2#"}>
           <img className='posts-img' src="anfield1.jpg" alt="" />
         </Link><p className='posts-text'>THE GRUMPHY OLD MAN😡 VERY HAPPY AT ANFIELD 😀🙏🏻‼️🏆🥇⚽️🇬🇧1 MINUT AFTER 1. GOAL COMES THIS:

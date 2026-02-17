@@ -134,7 +134,7 @@ console.log(currentImageIndex)
                 </div>
                           <div ref={setCardRef(0)} data-index={0} className={`fif-content-div movie-card ${visibleCards.includes(0) ? 'visible' : ''}`}>
                     <hr />
-                    <h2 className='posts-heading'>Klip fra en fif kamp ⚽️🏆🥇</h2>
+                    <h2 className='posts-heading'>Klip fra en FIF kamp ⚽️🏆🥇</h2>
                     <div className='grid-layout'>
                     <Video src="kamp.mp4" 
        />

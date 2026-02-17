@@ -343,7 +343,7 @@ Her vandt min makker Bo og jeg herredoublen efter at have ført turneringen fra 
                     <h2>Græsted </h2>
                     <h2>Haried</h2>
                     <h2>Hedehusene</h2>
-                    <h2>Hegnsholt - sponsor ❤️⚽️⛳️</h2>
+                    <h2>Hegnsholt - sponsor ❤️⚽️⛳️🕳️</h2>
                     <h2>Hejnsvig </h2>
                     <h2>Herning </h2>
                     <h2>Himmerland</h2>
@@ -392,7 +392,7 @@ Her vandt min makker Bo og jeg herredoublen efter at have ført turneringen fra 
                     <h2>Weissenheiser Strand</h2>
                     <h2>Willaberg </h2>
                     <h2>Youx </h2>
-                    <h2>Ørsted - sponsor ❤️⚽️⛳️</h2>
+                    <h2>Ørsted - sponsor ❤️⚽️⛳️🕳️</h2>
 
                 </div>
                 <Footer />
