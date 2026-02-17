@@ -162,7 +162,7 @@ console.log(currentImageIndex)
 
         <hr />
 
-        <h2 className='posts-heading'>God minder💙💙</h2>
+        <h2 className='posts-heading'>Gode minder💙💙</h2>
         <Link to={"https://www.facebook.com/thomas.voss.923/posts/pfbid025FKZRJNTVQfSDMzTfidNrbDbURfzDZfN6EcLzfH8gLpKxZD69Ge2LBZrNnSndHNNl?rdid=FV8g1qpvDU9AE3HR#"}>
         Klik her eller på billedet for at gå videre til postet</Link>
         <Link to={"https://www.facebook.com/thomas.voss.923/posts/pfbid025FKZRJNTVQfSDMzTfidNrbDbURfzDZfN6EcLzfH8gLpKxZD69Ge2LBZrNnSndHNNl?rdid=FV8g1qpvDU9AE3HR#"}>
