@@ -331,7 +331,6 @@ Her vandt min makker Bo og jeg herredoublen efter at have ført turneringen fra 
                     <h2>Dymnik</h2>
                     <h2>Ebeltoft</h2>
                     <h2>Ejsing </h2>
-                    <h2>Ejsing </h2>
                     <h2>Englykke</h2>
                     <h2>Fehrnarn</h2>
                     <h2>Filskov </h2>
